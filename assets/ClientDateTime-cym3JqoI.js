@@ -1,0 +1,2 @@
+import{r as n,j as i}from"./main-G_AsZllB.js";import{u as s}from"./useTimeZoneConversion-I7-mHV-1.js";import{aG as a}from"./App-HC4z9eyz.js";const l=new Intl.DateTimeFormat(a,{dateStyle:"medium",timeStyle:"medium"}),f=({value:e,options:t})=>{const[m]=n.useState(()=>t?new Intl.DateTimeFormat(a,t):l),{fromServerDate:o}=s();if(!e)return null;const r=o(e);return i.jsx("span",{title:r.getClientZonedISOString(),children:m.format(r)})};export{f as C,l as d};
+//# sourceMappingURL=ClientDateTime-cym3JqoI.js.map

@@ -4,6 +4,7 @@
   "title": "Metadata Management",
   "name": "metadata-management",
   "minDHIS2Version": "2.41",
+  "coreApp": true,
   "shortcuts": [
     {
       "name": "Categories",
@@ -186,7 +187,7 @@
       "url": "#/analyticsTableHooks"
     }
   ],
-  "version": "0.149.0",
+  "version": "0.149.1",
   "description": "",
   "entryPoints": {
     "app": "index.html"
