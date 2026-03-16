@@ -1,0 +1,1 @@
+{"version":3,"file":"List-g08PUe2G.js","sources":["../../src/D2App/pages/dataSets/List.tsx"],"sourcesContent":["import { DefaultSectionList } from '../DefaultSectionList'\n\nexport const Component = DefaultSectionList\n"],"names":["Component","DefaultSectionList"],"mappings":"goCAEO,MAAMA,EAAYC"}

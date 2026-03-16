@@ -1,0 +1,2 @@
+import{p as o,al as a,o as e,s as r,ap as s}from"./App-DYp2RkFa.js";import"./main-Gvf--tuX.js";import{g as n}from"./getDefaults-C6I5I2qy.js";const{identifiable:i}=o,t=s(["LISTING","SEQUENTIAL","MATRIX"]),p=i.extend({description:r().optional(),renderType:e({MOBILE:e({type:t.default("LISTING")}),DESKTOP:e({type:t.default("LISTING")})}),sortOrder:a.number().int().default(0)}),l=n(p);export{l as initialStageSectionValues,p as stageSectionFormSchema};
+//# sourceMappingURL=stageSectionFormSchema-MVSIkpum.js.map
