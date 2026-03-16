@@ -1,1 +1,0 @@
-{"version":3,"file":"List-D2e4Tpxd.js","sources":["../../src/D2App/pages/dataSetNotificationTemplates/List.tsx"],"sourcesContent":["import { DefaultSectionList } from '../DefaultSectionList'\n\nexport const Component = DefaultSectionList\n"],"names":["Component","DefaultSectionList"],"mappings":"goCAEO,MAAMA,EAAYC"}
