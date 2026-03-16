@@ -1,0 +1,2 @@
+import{p as o,al as a,o as e,s as r,ap as s}from"./App-B95u41VP.js";import"./main-C57h-j71.js";import{g as n}from"./getDefaults-BJ898B07.js";const{identifiable:i}=o,t=s(["LISTING","SEQUENTIAL","MATRIX"]),p=i.extend({description:r().optional(),renderType:e({MOBILE:e({type:t.default("LISTING")}),DESKTOP:e({type:t.default("LISTING")})}),sortOrder:a.number().int().default(0)}),l=n(p);export{l as initialStageSectionValues,p as stageSectionFormSchema};
+//# sourceMappingURL=stageSectionFormSchema-BA08_Lc1.js.map
