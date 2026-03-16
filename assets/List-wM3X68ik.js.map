@@ -1,1 +1,0 @@
-{"version":3,"file":"List-wM3X68ik.js","sources":["../../src/D2App/pages/categoryOptionGroups/List.tsx"],"sourcesContent":["import { DefaultSectionList } from '../DefaultSectionList'\n\nexport const Component = DefaultSectionList\n"],"names":["Component","DefaultSectionList"],"mappings":"goCAEO,MAAMA,EAAYC"}
