@@ -1,2 +1,0 @@
-import{i as e,j as s}from"./main-B21xMx7H.js";import{x as l}from"./App-Cbr5PjG9.js";import{u as p}from"./useFieldValidators-BTyK9D_A.js";import{I as m}from"./InputFieldFF-8-PvL4nX.js";function F({schemaSection:t,helpText:o,modelId:i,required:a=!1}){const r=p({schemaSection:t,property:"code",modelId:i}),d=o||e.t("An optional unique identifier.");return s.jsx(l,{component:m,dataTest:"formfields-code",inputWidth:"150px",name:"code",label:e.t("Code"),helpText:d,validateFields:[],validate:n=>r(n),required:a})}export{F as C};
-//# sourceMappingURL=CodeField-F8YUh4TT.js.map

@@ -4,7 +4,7 @@
   "short_name": "metadata-management",
   "name": "Metadata Management",
   "description": "",
-  "version": "0.149.2",
+  "version": "0.149.4",
   "core_app": true,
   "launch_path": "index.html",
   "default_locale": "en",
@@ -16,11 +16,15 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Tue Mar 17 2026 14:58:54 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Tue Mar 17 2026 15:10:47 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
   "shortcuts": [
+    {
+      "name": "Maintenance",
+      "url": "#/overview"
+    },
     {
       "name": "Categories",
       "url": "#/categories"
