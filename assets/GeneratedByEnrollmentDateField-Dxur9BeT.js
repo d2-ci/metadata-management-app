@@ -1,0 +1,2 @@
+import{j as e,i as t}from"./main-WEwC-5Cq.js";import{x as n}from"./App-D7D8y7Ir.js";import{C as o}from"./CheckboxFieldFF-BPBbLazH.js";import"./checkbox-field-CTFm011W.js";import"./createToggleChangeHandler-DXbZSfNQ.js";function s(){return e.jsx(n,{name:"generatedByEnrollmentDate",type:"checkbox",component:o,label:t.t("Generate events based on enrollment date"),dataTest:"formfields-generatedByEnrollmentDate"})}export{s as GeneratedByEnrollmentDateField};
+//# sourceMappingURL=GeneratedByEnrollmentDateField-Dxur9BeT.js.map
