@@ -22,6 +22,7 @@
   {
     "locale": "en",
     "shortcuts": {
+      "Maintenance": "Maintenance",
       "Categories": "Categories",
       "Category options": "Category options",
       "Category combinations": "Category combinations",

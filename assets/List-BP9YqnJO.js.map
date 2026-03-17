@@ -1,1 +1,0 @@
-{"version":3,"file":"List-BP9YqnJO.js","sources":["../../src/D2App/pages/dataElements/List.tsx"],"sourcesContent":["import { DefaultSectionList } from '../DefaultSectionList'\n\nexport const Component = DefaultSectionList\n"],"names":["Component","DefaultSectionList"],"mappings":"2lCAEO,MAAMA,EAAYC"}

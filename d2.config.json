@@ -7,6 +7,10 @@
   "coreApp": true,
   "shortcuts": [
     {
+      "name": "Maintenance",
+      "url": "#/overview"
+    },
+    {
       "name": "Categories",
       "url": "#/categories"
     },
@@ -187,7 +191,7 @@
       "url": "#/analyticsTableHooks"
     }
   ],
-  "version": "0.149.2",
+  "version": "0.149.3",
   "description": "",
   "entryPoints": {
     "app": "index.html"
