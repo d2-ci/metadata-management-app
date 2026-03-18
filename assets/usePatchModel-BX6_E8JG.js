@@ -1,0 +1,2 @@
+import{a as c,r as o}from"./main-CoG_W3cP.js";import{p}from"./apiErrors-Bp1FErfW.js";const u=(t,a)=>({resource:a,id:t,type:"json-patch",data:({operations:r})=>r}),y=(t,a)=>{const r=c(),[e]=o.useState(()=>u(t,a));return o.useCallback(async n=>{try{return{data:await r.mutate(e,{variables:{operations:n}})}}catch(s){return{error:p(s)}}},[r,e])};export{y as u};
+//# sourceMappingURL=usePatchModel-BX6_E8JG.js.map
