@@ -1,0 +1,2 @@
+import{j as o,i}from"./main-WEwC-5Cq.js";import{z as p}from"./App-D7D8y7Ir.js";import{I as n}from"./InputFieldFF-CD9wKGUD.js";function a(){const{input:r,meta:e}=p("priority",{type:"number",format:t=>t==null?void 0:t.toString(),parse:t=>t===void 0||t===""?void 0:Number.parseFloat(t)});return o.jsx(n,{input:r,meta:e,dataTest:"priority-field",inputWidth:"120px",label:i.t("Priority"),helpText:i.t("Can be 0 or negative. Leave empty if not needed.")})}export{a as PriorityField};
+//# sourceMappingURL=PriorityField-BF6TZmHL.js.map

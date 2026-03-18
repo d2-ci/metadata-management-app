@@ -1,2 +1,0 @@
-import{j as e,B as i,i as t}from"./main-wRPnRpwN.js";const o="_editableFieldWrapper_poyuw_1",p="_actions_poyuw_6",a={editableFieldWrapper:o,actions:p};function u({children:l,dataTest:r,onRefresh:d,onAddNew:n}){return e.jsxs("div",{"data-test":r,className:a.editableFieldWrapper,children:[e.jsx("div",{children:l}),e.jsxs("div",{className:a.actions,children:[e.jsx(i,{small:!0,onClick:(c,s)=>d(s),children:t.t("Refresh")}),e.jsx(i,{small:!0,onClick:(c,s)=>n(s),children:t.t("Add new")})]})]})}export{u as E};
-//# sourceMappingURL=EditableFieldWrapper-CBX5eWoI.js.map

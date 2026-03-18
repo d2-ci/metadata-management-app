@@ -1,0 +1,2 @@
+import{j as t,b as l}from"./main-WEwC-5Cq.js";import{F as s}from"./field-set-dt5Os2fs.js";const r="_horizontalField_z0bbk_1",d={horizontalField:r},c=({className:a,children:i,...e})=>{var o;return t.jsx(s,{className:a,dataTest:(o=s.defaultProps)==null?void 0:o.dataTest,children:t.jsx(l,{...e,className:d.horizontalField,children:i})})};export{c as H};
+//# sourceMappingURL=HorizontalFieldGroup-CqmeJY-F.js.map
