@@ -1,0 +1,2 @@
+import{j as r,N as a,i as t}from"./main-B0KqJYP4.js";import{aG as i,aH as o,aI as n}from"./App-kY6BW6m_.js";const e=({children:s})=>r.jsx(o,{children:r.jsx(n,{colSpan:"100%",children:s})}),m=()=>r.jsx(e,{children:r.jsx("p",{className:i.listEmpty,children:t.t("There aren't any items that match your filter.")})}),x=()=>r.jsx(e,{children:r.jsx(a,{error:!0,title:t.t("An error occurred"),children:t.t("An error occurred while loading the items.")})});export{x as S,m as a,e as b};
+//# sourceMappingURL=SectionListMessages-L5mLCz4b.js.map

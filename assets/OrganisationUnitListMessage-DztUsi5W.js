@@ -1,0 +1,2 @@
+import{j as r,w as o,i as a}from"./main-B0KqJYP4.js";import{S as c,a as x,b as f}from"./SectionListMessages-L5mLCz4b.js";import"./App-kY6BW6m_.js";const p=({orgUnitCount:s,isFiltering:t,queries:e})=>{const i=e.find(n=>n.error);return i?(console.error(i.error),r.jsx(c,{})):t&&s<1?r.jsx(x,{}):s<1?r.jsx(f,{children:r.jsx(o,{children:a.t("No organisation units available")})}):null};export{p as OrganisationUnitListMessage};
+//# sourceMappingURL=OrganisationUnitListMessage-DztUsi5W.js.map
