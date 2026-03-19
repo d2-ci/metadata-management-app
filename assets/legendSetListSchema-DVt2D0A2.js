@@ -1,2 +1,0 @@
-import{o as t,p as s,ah as i,s as e,t as a}from"./App-C0Z-z2cc.js";import"./main-CHK4-U45.js";import{g as m}from"./getDefaults-bfVC20-1.js";const{identifiable:r,withDefaultListColumns:l,withAttributeValues:n}=s,o=t({name:e().trim(),code:e().trim().optional(),symbolizer:e().optional(),legends:i(t({id:e(),name:e(),startValue:a(),endValue:a(),color:e()})).optional()}),g=r.merge(o).merge(n).merge(l),u=m(o);export{u as initialValues,o as legendSetBaseSchema,g as legendSetListSchema};
-//# sourceMappingURL=legendSetListSchema-DVt2D0A2.js.map
