@@ -1,2 +1,0 @@
-import{a as c,r as o}from"./main-WEwC-5Cq.js";import{p}from"./apiErrors-C0NFkLAe.js";const u=(t,a)=>({resource:a,id:t,type:"json-patch",data:({operations:r})=>r}),y=(t,a)=>{const r=c(),[e]=o.useState(()=>u(t,a));return o.useCallback(async n=>{try{return{data:await r.mutate(e,{variables:{operations:n}})}}catch(s){return{error:p(s)}}},[r,e])};export{y as u};
-//# sourceMappingURL=usePatchModel-CxL50fsm.js.map
