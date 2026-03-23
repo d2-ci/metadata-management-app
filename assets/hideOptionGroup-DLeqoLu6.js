@@ -1,0 +1,2 @@
+import{i}from"./main-Rw6y9YQu.js";import{optionGroupFields as t}from"./optionGroup-BDDSqoJR.js";import"./App-C-Q7Te7E.js";import"./StandardFormField-73PZaxyo.js";import"./LocationField-CPaXu-F_.js";import"./DataElementWithOptionSetField-CvvFvU8P.js";import"./useClearFormFields-pe5l46QR.js";import"./TrackedEntityAttributeWithOptionSetField-h54w2CDY.js";import"./OptionGroupField-D0aMsf8M.js";const h=o=>t(o,i.t("Option group to hide"));export{h as hideOptionGroup};
+//# sourceMappingURL=hideOptionGroup-DLeqoLu6.js.map
