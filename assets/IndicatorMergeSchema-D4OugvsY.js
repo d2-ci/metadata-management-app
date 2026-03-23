@@ -1,0 +1,2 @@
+import{i as o}from"./main-BvqTYJDB.js";import{o as s,ah as m,s as r}from"./App-DCJMOgvT.js";import{c as i}from"./validate-Dm16VJdT.js";import{m as c}from"./mergeSchemaBase-C1dosPXM.js";const a=s({id:r(),displayName:r(),name:r()}),n=c.extend({sources:m(a).min(1,o.t("At least one source is required")).default([]),target:a}).transform(e=>({...e,sources:e.sources.map(t=>t.id),target:e.target.id})),u=i(n);export{n as mergeFormSchema,u as validate};
+//# sourceMappingURL=IndicatorMergeSchema-D4OugvsY.js.map
