@@ -1,0 +1,2 @@
+import{i as t}from"./main-NTv-v7M4.js";import{optionGroupFields as p}from"./optionGroup-C0b92CQf.js";import"./App-C1Q6PjYb.js";import"./StandardFormField-VLjydu7w.js";import"./LocationField-Ci84Zslq.js";import"./DataElementWithOptionSetField-Dm7dARHQ.js";import"./useClearFormFields-CKloTrUK.js";import"./TrackedEntityAttributeWithOptionSetField-DNHRLsX-.js";import"./OptionGroupField-BJfUIWmE.js";const w=o=>p(o,t.t("Option group to show"));export{w as showOptionGroup};
+//# sourceMappingURL=showOptionGroup-atabgy9A.js.map

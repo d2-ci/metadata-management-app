@@ -1,0 +1,2 @@
+import{p as o,o as e,s as i,ap as n}from"./App-C1Q6PjYb.js";import"./main-NTv-v7M4.js";import{g as r}from"./getDefaults-BvR1wC_W.js";const{identifiable:a,referenceCollection:s}=o,t=n(["LISTING","SEQUENTIAL","MATRIX"]),p=a.extend({description:i().optional(),renderType:e({MOBILE:e({type:t.default("LISTING")}),DESKTOP:e({type:t.default("LISTING")})}),trackedEntityAttributes:s}),T=r(p);export{T as initialSectionValues,p as sectionFormSchema};
+//# sourceMappingURL=sectionFormSchema-BJk3ZZKZ.js.map

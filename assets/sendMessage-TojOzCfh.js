@@ -1,0 +1,2 @@
+import{j as r}from"./main-NTv-v7M4.js";import"./App-C1Q6PjYb.js";import{S as e}from"./StandardFormField-VLjydu7w.js";import"./LocationField-Ci84Zslq.js";import{NotificationTemplateField as o}from"./NotificationTemplateField-B_Oq2-KU.js";import"./ModelSingleSelectField-Cax7Q3M_.js";function f(i,t){return r.jsx(e,{children:r.jsx(o,{programId:i,required:!0,disabled:t})})}export{f as sendMessage};
+//# sourceMappingURL=sendMessage-TojOzCfh.js.map

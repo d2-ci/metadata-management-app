@@ -1,0 +1,2 @@
+import{o as a,p as t,q as o,s as e}from"./App-C1Q6PjYb.js";import"./main-NTv-v7M4.js";const{withDefaultListColumns:s,withAttributeValues:m}=t,r=a({fromToName:e(),toFromName:e().optional(),displayFromToName:e(),displayToFromName:e(),bidirectional:o().default(!1),referral:o().default(!1)}),p=r.merge(s).merge(m);export{p as relationshipTypeListSchema};
+//# sourceMappingURL=RelationshipTypeFormSchema-BeJNA1qA.js.map

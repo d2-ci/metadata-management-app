@@ -1,0 +1,2 @@
+import{j as e,i as t}from"./main-NTv-v7M4.js";import{x as o}from"./App-C1Q6PjYb.js";import{C as m}from"./CheckboxFieldFF-B1dBdD-h.js";import"./checkbox-field-ByD9OGWO.js";import"./createToggleChangeHandler-DXbZSfNQ.js";function d(){return e.jsx(o,{name:"remindCompleted",type:"checkbox",component:m,label:t.t("On event completion, ask user to complete enrollment"),dataTest:"formfields-remindCompleted",validateFields:[]})}export{d as RemindCompletedField};
+//# sourceMappingURL=RemindCompletedField-BfGENDZ2.js.map

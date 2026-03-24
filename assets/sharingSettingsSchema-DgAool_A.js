@@ -1,0 +1,2 @@
+import{o as a,aC as e,s as o,q as s}from"./App-C1Q6PjYb.js";import"./main-NTv-v7M4.js";const t=a({owner:o().optional(),external:s().optional(),public:o().optional(),userGroups:e(a({id:o(),access:o(),displayName:o().optional()})).optional(),users:e(a({id:o(),access:o(),displayName:o().optional()})).optional()});export{t as sharingSettingsSchema};
+//# sourceMappingURL=sharingSettingsSchema-DgAool_A.js.map
