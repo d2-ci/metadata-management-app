@@ -1,0 +1,1 @@
+{"version":3,"file":"List-BKhUy1Nw.js","sources":["../../src/D2App/pages/organisationUnits/List.tsx"],"sourcesContent":["import React from 'react'\nimport { OrganisationUnitList } from './list/index'\n\nexport const Component = () => {\n    return <OrganisationUnitList />\n}\n"],"names":["Component","OrganisationUnitList"],"mappings":"ioCAGO,MAAMA,EAAYA,UACbC,EAAA,EAAoB"}
