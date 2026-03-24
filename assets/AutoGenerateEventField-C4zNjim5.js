@@ -1,2 +1,0 @@
-import{j as e,i as t}from"./main-zM7ZwrEO.js";import{x as o}from"./App-Dr52SOtf.js";import{C as n}from"./CheckboxFieldFF-CLhFedsa.js";import"./checkbox-field-BTOHhZhr.js";import"./createToggleChangeHandler-DXbZSfNQ.js";function p(){return e.jsx(o,{name:"autoGenerateEvent",type:"checkbox",component:n,label:t.t("Auto-generate an event in this stage"),dataTest:"formfields-autoGenerateEvent"})}export{p as AutoGenerateEventField};
-//# sourceMappingURL=AutoGenerateEventField-C4zNjim5.js.map

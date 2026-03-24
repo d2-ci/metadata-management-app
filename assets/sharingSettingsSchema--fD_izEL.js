@@ -1,2 +1,0 @@
-import{o as a,aC as e,s as o,q as s}from"./App-Dr52SOtf.js";import"./main-zM7ZwrEO.js";const t=a({owner:o().optional(),external:s().optional(),public:o().optional(),userGroups:e(a({id:o(),access:o(),displayName:o().optional()})).optional(),users:e(a({id:o(),access:o(),displayName:o().optional()})).optional()});export{t as sharingSettingsSchema};
-//# sourceMappingURL=sharingSettingsSchema--fD_izEL.js.map
