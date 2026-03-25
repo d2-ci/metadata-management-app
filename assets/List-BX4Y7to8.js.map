@@ -1,1 +1,0 @@
-{"version":3,"file":"List-BX4Y7to8.js","sources":["../../src/D2App/pages/organisationUnitGroups/List.tsx"],"sourcesContent":["import React from 'react'\nimport { DefaultSectionList } from '../DefaultSectionList'\n\nexport const Component = () => <DefaultSectionList />\n"],"names":["Component","jsx","DefaultSectionList"],"mappings":"umCAGO,MAAMA,EAAYA,IAAMC,MAACC,EAAA,CAAA,CAAkB"}
