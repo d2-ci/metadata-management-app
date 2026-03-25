@@ -1,0 +1,2 @@
+import{j as r}from"./main-1HhtSvot.js";import{v as s}from"./App-B_4CDFgN.js";import{S as o}from"./StandardFormField-GMWnAl4G.js";import{C as i}from"./CodeField-BZIL06zd.js";import{N as m}from"./NameField-CvbUW-S2.js";import{S as t}from"./ShortNameField-BcKDJb0L.js";const j=()=>{const e=s();return r.jsxs(r.Fragment,{children:[r.jsx(o,{children:r.jsx(m,{schemaSection:e})}),r.jsx(o,{children:r.jsx(t,{schemaSection:e})}),r.jsx(o,{children:r.jsx(i,{schemaSection:e})})]})};export{j as D};
+//# sourceMappingURL=DefaultIdentifibleFIelds-OA_dEoE4.js.map
