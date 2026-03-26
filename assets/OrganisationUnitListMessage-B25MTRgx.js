@@ -1,2 +1,0 @@
-import{j as r,w as n,i as a}from"./main-CoNvaiD-.js";import{S as c,a as x,b as L,c as f}from"./SectionListMessages-c8L5SRVL.js";import"./App-Bo8v3u35.js";const p=({orgUnitCount:s,isFiltering:e,queries:o})=>{const t=o.find(i=>i.error);return t?(console.error(t.error),r.jsx(c,{})):s<1&&o.some(i=>i.isLoading)?r.jsx(x,{}):e&&s<1?r.jsx(L,{}):s<1?r.jsx(f,{children:r.jsx(n,{children:a.t("No organisation units available")})}):null};export{p as OrganisationUnitListMessage};
-//# sourceMappingURL=OrganisationUnitListMessage-B25MTRgx.js.map

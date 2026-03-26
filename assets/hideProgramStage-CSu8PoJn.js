@@ -1,2 +1,0 @@
-import{j as r,i as e}from"./main-CoNvaiD-.js";import"./App-Bo8v3u35.js";import{S as o}from"./StandardFormField-B7WycZEd.js";import{ProgramStageSelectField as i}from"./ProgramStageSelectField-CDUEyeEB.js";import"./LocationField-CxOCpIwO.js";function p(t){return r.jsx(o,{children:r.jsx(i,{programId:t,label:e.t("Program stage"),required:!0})})}export{p as hideProgramStage};
-//# sourceMappingURL=hideProgramStage-CSu8PoJn.js.map
