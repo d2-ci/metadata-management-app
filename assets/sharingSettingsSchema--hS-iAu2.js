@@ -1,2 +1,0 @@
-import{o as a,aC as e,s as o,q as s}from"./App-D9spwW76.js";import"./main-CCc5-NsB.js";const t=a({owner:o().optional(),external:s().optional(),public:o().optional(),userGroups:e(a({id:o(),access:o(),displayName:o().optional()})).optional(),users:e(a({id:o(),access:o(),displayName:o().optional()})).optional()});export{t as sharingSettingsSchema};
-//# sourceMappingURL=sharingSettingsSchema--hS-iAu2.js.map
