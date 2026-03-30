@@ -1,2 +1,0 @@
-import{o as t,p as o,ah as e,s as a}from"./App-B9vfErDn.js";import"./main-rmD-ATOv.js";const{withDefaultListColumns:r,withAttributeValues:s}=o,p=t({name:a().trim(),periodType:a().trim(),categoryCombo:t({id:a()}).optional(),dataSets:e(t({id:a()})).default([]),dataApprovalLevels:e(t({id:a()})).default([])}),l=p.merge(r).merge(s);export{l as dataApprovalWorkflowListSchema};
-//# sourceMappingURL=dataApprovalWorkflowSchema-CJRet70-.js.map
