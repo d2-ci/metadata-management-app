@@ -1,0 +1,2 @@
+import{o as t,p as s,ah as i,s as e,t as a}from"./App-DiubQUyz.js";import"./main-B-W8cnhc.js";import{g as m}from"./getDefaults-BGI-dL3Y.js";const{identifiable:r,withDefaultListColumns:l,withAttributeValues:n}=s,o=t({name:e().trim(),code:e().trim().optional(),symbolizer:e().optional(),legends:i(t({id:e(),name:e(),startValue:a(),endValue:a(),color:e()})).optional()}),g=r.merge(o).merge(n).merge(l),u=m(o);export{u as initialValues,o as legendSetBaseSchema,g as legendSetListSchema};
+//# sourceMappingURL=legendSetListSchema-BB__EmqN.js.map
