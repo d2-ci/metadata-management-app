@@ -1,0 +1,2 @@
+import{i as t}from"./main-vakki3MK.js";import{optionGroupFields as p}from"./optionGroup-ABYuixFV.js";import"./App-CjLfenCu.js";import"./StandardFormField-_Uoo5Dft.js";import"./LocationField-D9rcrhhe.js";import"./DataElementWithOptionSetField-EQNGFPBm.js";import"./useClearFormFields-ClqXKC-I.js";import"./TrackedEntityAttributeWithOptionSetField-Cr61gFd8.js";import"./OptionGroupField-CxvvlLfi.js";const w=o=>p(o,t.t("Option group to show"));export{w as showOptionGroup};
+//# sourceMappingURL=showOptionGroup-Df6wkBp-.js.map

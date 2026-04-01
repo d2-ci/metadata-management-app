@@ -1,0 +1,2 @@
+import{j as r,i as e}from"./main-vakki3MK.js";import"./App-CjLfenCu.js";import{S as o}from"./StandardFormField-_Uoo5Dft.js";import{ProgramStageSelectField as i}from"./ProgramStageSelectField-D0GO1OfA.js";import"./LocationField-D9rcrhhe.js";function p(t){return r.jsx(o,{children:r.jsx(i,{programId:t,label:e.t("Program stage"),required:!0})})}export{p as hideProgramStage};
+//# sourceMappingURL=hideProgramStage-nL1RQByA.js.map

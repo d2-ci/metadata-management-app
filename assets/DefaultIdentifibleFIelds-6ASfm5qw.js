@@ -1,0 +1,2 @@
+import{j as r}from"./main-vakki3MK.js";import{v as s}from"./App-CjLfenCu.js";import{S as o}from"./StandardFormField-_Uoo5Dft.js";import{C as i}from"./CodeField-CTXxXnyV.js";import{N as m}from"./NameField-gB4FLpDb.js";import{S as t}from"./ShortNameField-D1s9g7xR.js";const j=()=>{const e=s();return r.jsxs(r.Fragment,{children:[r.jsx(o,{children:r.jsx(m,{schemaSection:e})}),r.jsx(o,{children:r.jsx(t,{schemaSection:e})}),r.jsx(o,{children:r.jsx(i,{schemaSection:e})})]})};export{j as D};
+//# sourceMappingURL=DefaultIdentifibleFIelds-6ASfm5qw.js.map

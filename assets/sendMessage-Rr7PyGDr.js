@@ -1,0 +1,2 @@
+import{j as r}from"./main-vakki3MK.js";import"./App-CjLfenCu.js";import{S as e}from"./StandardFormField-_Uoo5Dft.js";import"./LocationField-D9rcrhhe.js";import{NotificationTemplateField as o}from"./NotificationTemplateField-2utF43jO.js";import"./ModelSingleSelectField-RBPYodDF.js";function f(i,t){return r.jsx(e,{children:r.jsx(o,{programId:i,required:!0,disabled:t})})}export{f as sendMessage};
+//# sourceMappingURL=sendMessage-Rr7PyGDr.js.map
