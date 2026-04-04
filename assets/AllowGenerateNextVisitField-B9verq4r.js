@@ -1,2 +1,0 @@
-import{j as e,i as t}from"./main-DRPY-8B_.js";import{x as o}from"./App-D8Yxj-Ly.js";import{C as i}from"./CheckboxFieldFF-CxOWxGBo.js";import"./checkbox-field-CPqG-OEu.js";import"./createToggleChangeHandler-DXbZSfNQ.js";function m(){return e.jsx(o,{name:"allowGenerateNextVisit",type:"checkbox",component:i,label:t.t("Ask user to create a new event after completion"),dataTest:"formfields-allowGenerateNextVisit"})}export{m as AllowGenerateNextVisitField};
-//# sourceMappingURL=AllowGenerateNextVisitField-B9verq4r.js.map

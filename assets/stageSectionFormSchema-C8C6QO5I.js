@@ -1,2 +1,0 @@
-import{p as o,al as a,o as e,s as r,ap as s}from"./App-D8Yxj-Ly.js";import"./main-DRPY-8B_.js";import{g as n}from"./getDefaults-B2bjs3ZA.js";const{identifiable:i}=o,t=s(["LISTING","SEQUENTIAL","MATRIX"]),p=i.extend({description:r().optional(),renderType:e({MOBILE:e({type:t.default("LISTING")}),DESKTOP:e({type:t.default("LISTING")})}),sortOrder:a.number().int().default(0)}),l=n(p);export{l as initialStageSectionValues,p as stageSectionFormSchema};
-//# sourceMappingURL=stageSectionFormSchema-C8C6QO5I.js.map
