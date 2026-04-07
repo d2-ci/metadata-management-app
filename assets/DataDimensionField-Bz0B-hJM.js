@@ -1,2 +1,0 @@
-import{j as i,i as a}from"./main-CprGByE8.js";import{x as t}from"./App-BGNlM4p7.js";import{C as e}from"./CheckboxFieldFF-FHkvzOt-.js";import"./checkbox-field-D_hoqeRc.js";import"./createToggleChangeHandler-DXbZSfNQ.js";function d(){return i.jsx(t,{component:e,dataTest:"formfields-dataDimension",name:"dataDimension",label:a.t("Show as data dimension in analytics apps"),type:"checkbox",validateFields:[]})}export{d as DataDimensionField};
-//# sourceMappingURL=DataDimensionField-Bz0B-hJM.js.map

@@ -1,2 +1,0 @@
-import{j as a}from"./main-CprGByE8.js";import{z as f}from"./App-BGNlM4p7.js";import{I as F}from"./InputFieldFF-D0EBYlXQ.js";const c=({fieldName:r,label:s,helpText:i,required:o=!1,defaultValue:m=0})=>{const p=o?m:void 0,{input:n,meta:e}=f(r,{parse:t=>t===void 0||t===""?p:Number.parseFloat(t),type:"number",format:t=>t==null?void 0:t.toString()});return a.jsx(F,{input:n,meta:e,inputWidth:"250px",label:s,helpText:i,required:o})};export{c as NumberField};
-//# sourceMappingURL=NumberField-Ys9xNh1y.js.map
