@@ -1,0 +1,2 @@
+import{p as t,q as o,ai as e,t as a}from"./App-COMHCIM0.js";import"./main-B_MYpYeC.js";const{withDefaultListColumns:r,withAttributeValues:i}=o,p=t({name:a().trim(),periodType:a().trim(),categoryCombo:t({id:a()}).optional(),dataSets:e(t({id:a()})).default([]),dataApprovalLevels:e(t({id:a()})).default([])}),l=p.merge(r).merge(i);export{l as dataApprovalWorkflowListSchema};
+//# sourceMappingURL=dataApprovalWorkflowSchema-Dm4p66ic.js.map
