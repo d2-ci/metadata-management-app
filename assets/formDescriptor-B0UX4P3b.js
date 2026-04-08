@@ -1,0 +1,2 @@
+import{i as e}from"./main-w-g35g6U.js";const a={name:"OptionSet",label:e.t("Option Set"),sections:[{name:"basicInfo",label:e.t("Basic information"),fields:[{name:"name",label:e.t("Name")},{name:"code",label:e.t("Code")},{name:"description",label:e.t("Description")},{name:"valueType",label:e.t("Value type")}]},{name:"options",label:e.t("Options"),fields:[{name:"options",label:e.t("Options")}]}]};export{a as OptionSetFormDescriptor};
+//# sourceMappingURL=formDescriptor-B0UX4P3b.js.map
