@@ -1,0 +1,2 @@
+import{q as a,an as o,p as e,t as r,ar as n}from"./App-CB0gkB4x.js";import"./main-Co-lg-U3.js";import{g as s}from"./getDefaults-Gt7FitQr.js";const{identifiable:i}=a,t=n(["LISTING","SEQUENTIAL","MATRIX"]),p=i.extend({description:r().optional(),renderType:e({MOBILE:e({type:t.default("LISTING")}),DESKTOP:e({type:t.default("LISTING")})}),sortOrder:o.number().int().default(0)}),S=s(p);export{S as initialStageSectionValues,p as stageSectionFormSchema};
+//# sourceMappingURL=stageSectionFormSchema-CLrlX4v-.js.map
