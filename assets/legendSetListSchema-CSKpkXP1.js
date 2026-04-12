@@ -1,0 +1,2 @@
+import{r as t,s,C as i,x as e,y as a}from"./App-ChA-BUKI.js";import"./main-BJOl6-m5.js";import{g as r}from"./getDefaults-CUL-iL0B.js";const{identifiable:m,withDefaultListColumns:l,withAttributeValues:n}=s,o=t({name:e().trim(),code:e().trim().optional(),symbolizer:e().optional(),legends:i(t({id:e(),name:e(),startValue:a(),endValue:a(),color:e()})).optional()}),g=m.merge(o).merge(n).merge(l),u=r(o);export{u as initialValues,o as legendSetBaseSchema,g as legendSetListSchema};
+//# sourceMappingURL=legendSetListSchema-CSKpkXP1.js.map
