@@ -1,0 +1,2 @@
+import{i as t}from"./main-BfaQg2gw.js";import{optionGroupFields as p}from"./optionGroup-CiGfzlf2.js";import"./App-Djl-xyey.js";import"./StandardFormField-CEdoYpGm.js";import"./LocationField-DEXYm266.js";import"./DataElementWithOptionSetField-D38wl88-.js";import"./useClearFormFields-BFrWwj-y.js";import"./TrackedEntityAttributeWithOptionSetField-DivBwBfh.js";import"./OptionGroupField-LDawYfIq.js";const w=o=>p(o,t.t("Option group to show"));export{w as showOptionGroup};
+//# sourceMappingURL=showOptionGroup-qbwovi9O.js.map
