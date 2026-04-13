@@ -1,2 +1,0 @@
-import{r as o,s as t,v as a,x as e}from"./App-ChA-BUKI.js";import"./main-BJOl6-m5.js";const{withDefaultListColumns:s,withAttributeValues:r}=t,m=o({fromToName:e(),toFromName:e().optional(),displayFromToName:e(),displayToFromName:e(),bidirectional:a().default(!1),referral:a().default(!1)}),p=m.merge(s).merge(r);export{p as relationshipTypeListSchema};
-//# sourceMappingURL=RelationshipTypeFormSchema-CatlxU2s.js.map

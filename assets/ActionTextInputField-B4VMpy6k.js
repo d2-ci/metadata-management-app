@@ -1,2 +1,0 @@
-import{j as i,d as s,i as x}from"./main-BJOl6-m5.js";import{ai as p}from"./App-ChA-BUKI.js";import{I as a}from"./InputFieldFF-v7RcF9fH.js";function j({name:e,label:t,required:r}){return i.jsx(p,{name:e,children:({input:n,meta:o})=>i.jsx(s,{width:"400px",minWidth:"100px",children:i.jsx(a,{input:n,meta:o,label:r?x.t("{{label}} (required)",{label:t,nsSeparator:"~:~"}):t,required:r})})})}export{j as ActionTextInputField};
-//# sourceMappingURL=ActionTextInputField-B4VMpy6k.js.map

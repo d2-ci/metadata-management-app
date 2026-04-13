@@ -1,2 +1,0 @@
-import{s as o,H as r,r as e,x as a,L as s}from"./App-ChA-BUKI.js";import"./main-BJOl6-m5.js";import{g as n}from"./getDefaults-CUL-iL0B.js";const{identifiable:i}=o,t=s(["LISTING","SEQUENTIAL","MATRIX"]),c=i.extend({description:a().optional(),renderType:e({MOBILE:e({type:t.default("LISTING")}),DESKTOP:e({type:t.default("LISTING")})}),sortOrder:r.number().int().default(0)}),S=n(c);export{S as initialStageSectionValues,c as stageSectionFormSchema};
-//# sourceMappingURL=stageSectionFormSchema-BtipH2Cr.js.map
