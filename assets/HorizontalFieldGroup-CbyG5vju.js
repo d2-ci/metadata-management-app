@@ -1,0 +1,2 @@
+import{j as t,b as l}from"./main-CYFXpby4.js";import{F as s}from"./field-set-BmW26s_n.js";const r="_horizontalField_z0bbk_1",d={horizontalField:r},c=({className:a,children:i,...e})=>{var o;return t.jsx(s,{className:a,dataTest:(o=s.defaultProps)==null?void 0:o.dataTest,children:t.jsx(l,{...e,className:d.horizontalField,children:i})})};export{c as H};
+//# sourceMappingURL=HorizontalFieldGroup-CbyG5vju.js.map
