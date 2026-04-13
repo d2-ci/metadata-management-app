@@ -1,0 +1,2 @@
+import{j as o,i as t}from"./main-D7ArgIiA.js";import{ai as r}from"./App-Cu3PS-0t.js";import{C as e}from"./CheckboxFieldFF-DakjlPBU.js";import"./checkbox-field-BhG6LyGk.js";import"./createToggleChangeHandler-DXbZSfNQ.js";function c(){return o.jsx(r,{name:"blockEntryForm",type:"checkbox",component:e,label:t.t("Block data entry after completion"),dataTest:"formfields-blockEntryForm",validateFields:[]})}export{c as BlockEntryFormField};
+//# sourceMappingURL=BlockEntryFormField-BwHzv8wd.js.map
