@@ -1,0 +1,2 @@
+import{r as a,P as t}from"./main-BkIRa3oB.js";function s(e){let{color:r,dataTest:o,ariaLabel:l}=e;return a.createElement("svg",{height:16,viewBox:"0 0 16 16",width:16,xmlns:"http://www.w3.org/2000/svg",color:r,"data-test":o},a.createElement("path",{d:"M13.5 3a.5.5 0 110 1H13v10a1 1 0 01-1 1H4a1 1 0 01-1-1V4h-.5a.5.5 0 010-1zM12 4H4v10h8zM7 6v6H6V6zm3 0v6H9V6zm-.5-5a.5.5 0 010 1h-3a.5.5 0 010-1z",fill:"currentColor"}))}s.propTypes={color:t.string,dataTest:t.string,ariaLabel:t.string};export{s as S};
+//# sourceMappingURL=Delete16-CvJB4Ryn.js.map
