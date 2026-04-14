@@ -1,0 +1,2 @@
+import{R,j as s,t as j}from"./main-Duq4Arh_.js";import{b7 as m,b8 as r,b9 as o}from"./App-BkDTLkKA.js";const l=R.memo(function({active:i,selectedColumns:c,modelData:t,onClick:a,renderActions:x,renderColumnValue:p}){return s.jsxs(m,{className:j(o.listRow,{[o.active]:i}),dataTest:"section-list-row",children:[s.jsx(r,{width:"48px"}),c.map(e=>s.jsx(r,{onClick:()=>a==null?void 0:a(t),children:p(e,t)},e.path)),s.jsx(r,{children:x(t)})]})});export{l as LocaleListRow};
+//# sourceMappingURL=LocaleListRow-Z9_Zrf4r.js.map
