@@ -1,1 +1,0 @@
-{"version":3,"file":"List-DV9-gaSM.js","sources":["../../src/D2App/pages/categoryOptionGroups/List.tsx"],"sourcesContent":["import { DefaultSectionList } from '../DefaultSectionList'\n\nexport const Component = DefaultSectionList\n"],"names":["Component","DefaultSectionList"],"mappings":"omCAEO,MAAMA,EAAYC"}
