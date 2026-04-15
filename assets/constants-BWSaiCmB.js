@@ -1,0 +1,2 @@
+import{i as a}from"./main-BdY17Sbh.js";import{g as l}from"./App-DgNfkD1h.js";const o=[{value:"",label:a.t("<No value>")},{value:"NONE",label:a.t("None")},{value:"POINT",label:a.t("Point")},{value:"POLYGON",label:a.t("Polygon")}],N=[{value:"ON_COMPLETE",label:l("ON_COMPLETE")},{value:"ON_UPDATE_AND_INSERT",label:l("ON_UPDATE_AND_INSERT")}];export{o as featureTypeOptions,N as validationStrategyOptions};
+//# sourceMappingURL=constants-BWSaiCmB.js.map
