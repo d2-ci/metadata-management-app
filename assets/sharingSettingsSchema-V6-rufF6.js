@@ -1,0 +1,2 @@
+import{p as a,aE as e,t as o,r as p}from"./App-DYDKbf10.js";import"./main-D0rIf98L.js";const t=a({owner:o().optional(),external:p().optional(),public:o().optional(),userGroups:e(a({id:o(),access:o(),displayName:o().optional()})).optional(),users:e(a({id:o(),access:o(),displayName:o().optional()})).optional()});export{t as sharingSettingsSchema};
+//# sourceMappingURL=sharingSettingsSchema-V6-rufF6.js.map
