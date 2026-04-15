@@ -1,0 +1,2 @@
+import{j as t,d as s,i as x}from"./main-DlArs8pI.js";import{y as p}from"./App-DoZsddex.js";import{I as a}from"./InputFieldFF-HpY6E1Ni.js";function j({name:e,label:i,required:r}){return t.jsx(p,{name:e,children:({input:n,meta:o})=>t.jsx(s,{width:"400px",minWidth:"100px",children:t.jsx(a,{input:n,meta:o,label:r?x.t("{{label}} (required)",{label:i,nsSeparator:"~:~"}):i,required:r})})})}export{j as ActionTextInputField};
+//# sourceMappingURL=ActionTextInputField-CmY5TbEz.js.map
