@@ -1,0 +1,2 @@
+import{f as t,r as a}from"./main-g1Saq_7e.js";const u=e=>{const r=t();return a.useCallback(s=>{r.invalidateQueries({queryKey:[e],...s})},[r,e])};export{u};
+//# sourceMappingURL=useRefreshSingleSelect-C7hMW9J2.js.map
