@@ -1,0 +1,2 @@
+import{j as i,N as n,i as a}from"./main-CGHe-Ccv.js";import{ad as l,ae as o,a5 as r}from"./App-CkL1QCpD.js";function u(){const s=l(),t=o(),{initialValues:e}=r({subscription:{initialValues:!0}});return s.settings.keyDbLocale!==t.keyDbLocale&&e.id&&i.jsx(n,{title:e.displayName&&e.displayName!==e.name?a.t("Name: {{- displayName}} (Translated)",{displayName:e.displayName}):void 0,children:a.t("Translatable fields appear in the default language in this form, not in your selected database language.")})}export{u as T};
+//# sourceMappingURL=TranslatedFieldsNoticeBox-ChGSj4SM.js.map

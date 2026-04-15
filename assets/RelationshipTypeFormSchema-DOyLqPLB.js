@@ -1,0 +1,2 @@
+import{r as o,s as t,t as a,w as e}from"./App-CkL1QCpD.js";import"./main-CGHe-Ccv.js";const{withDefaultListColumns:s,withAttributeValues:r}=t,m=o({fromToName:e(),toFromName:e().optional(),displayFromToName:e(),displayToFromName:e(),bidirectional:a().default(!1),referral:a().default(!1)}),p=m.merge(s).merge(r);export{p as relationshipTypeListSchema};
+//# sourceMappingURL=RelationshipTypeFormSchema-DOyLqPLB.js.map

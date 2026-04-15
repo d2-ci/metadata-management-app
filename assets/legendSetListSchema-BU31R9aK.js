@@ -1,0 +1,2 @@
+import{r as t,s,al as i,w as e,x as a}from"./App-CkL1QCpD.js";import"./main-CGHe-Ccv.js";import{g as r}from"./getDefaults-CfsU_usT.js";const{identifiable:l,withDefaultListColumns:m,withAttributeValues:n}=s,o=t({name:e().trim(),code:e().trim().optional(),symbolizer:e().optional(),legends:i(t({id:e(),name:e(),startValue:a(),endValue:a(),color:e()})).optional()}),g=l.merge(o).merge(n).merge(m),u=r(o);export{u as initialValues,o as legendSetBaseSchema,g as legendSetListSchema};
+//# sourceMappingURL=legendSetListSchema-BU31R9aK.js.map

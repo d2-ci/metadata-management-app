@@ -1,0 +1,2 @@
+import{r as a,aG as e,w as o,t as p}from"./App-CkL1QCpD.js";import"./main-CGHe-Ccv.js";const t=a({owner:o().optional(),external:p().optional(),public:o().optional(),userGroups:e(a({id:o(),access:o(),displayName:o().optional()})).optional(),users:e(a({id:o(),access:o(),displayName:o().optional()})).optional()});export{t as sharingSettingsSchema};
+//# sourceMappingURL=sharingSettingsSchema-TGWk05Qr.js.map

@@ -1,0 +1,2 @@
+import{s as o,r as e,w as r,at as i}from"./App-CkL1QCpD.js";import"./main-CGHe-Ccv.js";import{g as n}from"./getDefaults-CfsU_usT.js";const{identifiable:a,referenceCollection:s}=o,t=i(["LISTING","SEQUENTIAL","MATRIX"]),c=a.extend({description:r().optional(),renderType:e({MOBILE:e({type:t.default("LISTING")}),DESKTOP:e({type:t.default("LISTING")})}),trackedEntityAttributes:s}),T=n(c);export{T as initialSectionValues,c as sectionFormSchema};
+//# sourceMappingURL=sectionFormSchema-Z3OlxWAU.js.map
