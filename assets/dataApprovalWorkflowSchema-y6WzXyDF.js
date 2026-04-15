@@ -1,0 +1,2 @@
+import{p as t,q as o,aj as e,t as a}from"./App--mRbmNRo.js";import"./main-CN1ONex3.js";const{withDefaultListColumns:r,withAttributeValues:p}=o,s=t({name:a().trim(),periodType:a().trim(),categoryCombo:t({id:a()}).optional(),dataSets:e(t({id:a()})).default([]),dataApprovalLevels:e(t({id:a()})).default([])}),l=s.merge(r).merge(p);export{l as dataApprovalWorkflowListSchema};
+//# sourceMappingURL=dataApprovalWorkflowSchema-y6WzXyDF.js.map
