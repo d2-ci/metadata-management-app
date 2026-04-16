@@ -1,0 +1,2 @@
+import{p as a,o as i,q as m,s as o}from"./App-BQIMMx36.js";import"./main-Dld3tgJ2.js";import{c as r}from"./validate-DSi9jOI4.js";import{g as s}from"./getDefaults-B8lI3B_w.js";const{withAttributeValues:c,withDefaultListColumns:n}=a,t=i({code:o().trim().optional()}),e=c.merge(t).extend({id:o(),ignoreApproval:m().optional().default(!1)}),f=t.merge(n),u=s(e),b=r(e);export{e as categoryOptionComboFormSchema,f as categoryOptionComboListSchema,u as initialValues,b as validate};
+//# sourceMappingURL=categoryOptionComboSchema-DhgMVq5O.js.map
