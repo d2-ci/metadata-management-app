@@ -1,0 +1,2 @@
+import{j as i,N as n,i as a}from"./main-BrbW3CvN.js";import{w as l,x as r,r as o}from"./App-C_Pmrh5f.js";function d(){const s=l(),t=r(),{initialValues:e}=o({subscription:{initialValues:!0}});return s.settings.keyDbLocale!==t.keyDbLocale&&e.id&&i.jsx(n,{title:e.displayName&&e.displayName!==e.name?a.t("Name: {{- displayName}} (Translated)",{displayName:e.displayName}):void 0,children:a.t("Translatable fields appear in the default language in this form, not in your selected database language.")})}export{d as T};
+//# sourceMappingURL=TranslatedFieldsNoticeBox-BZFF5SKC.js.map
