@@ -1,1 +1,0 @@
-{"version":3,"file":"List-g8DAMtnK.js","sources":["../../src/D2App/pages/dataElements/List.tsx"],"sourcesContent":["import { DefaultSectionList } from '../DefaultSectionList'\n\nexport const Component = DefaultSectionList\n"],"names":["Component","DefaultSectionList"],"mappings":"omCAEO,MAAMA,EAAYC"}
