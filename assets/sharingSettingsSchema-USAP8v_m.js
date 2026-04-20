@@ -1,2 +1,0 @@
-import{r as a,ad as e,x as o,v as p}from"./App-lCA5W8to.js";import"./main-UWlc-Iyh.js";const t=a({owner:o().optional(),external:p().optional(),public:o().optional(),userGroups:e(a({id:o(),access:o(),displayName:o().optional()})).optional(),users:e(a({id:o(),access:o(),displayName:o().optional()})).optional()});export{t as sharingSettingsSchema};
-//# sourceMappingURL=sharingSettingsSchema-USAP8v_m.js.map

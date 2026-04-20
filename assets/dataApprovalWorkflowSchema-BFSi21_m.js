@@ -1,2 +1,0 @@
-import{r as t,s as o,C as e,x as a}from"./App-lCA5W8to.js";import"./main-UWlc-Iyh.js";const{withDefaultListColumns:r,withAttributeValues:s}=o,i=t({name:a().trim(),periodType:a().trim(),categoryCombo:t({id:a()}).optional(),dataSets:e(t({id:a()})).default([]),dataApprovalLevels:e(t({id:a()})).default([])}),l=i.merge(r).merge(s);export{l as dataApprovalWorkflowListSchema};
-//# sourceMappingURL=dataApprovalWorkflowSchema-BFSi21_m.js.map
