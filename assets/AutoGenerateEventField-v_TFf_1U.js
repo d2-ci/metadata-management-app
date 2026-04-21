@@ -1,2 +1,0 @@
-import{j as e,i as t}from"./main-DFdQ6IVf.js";import{z as o}from"./App-B70aY1dO.js";import{C as n}from"./CheckboxFieldFF-DuFClCrD.js";import"./checkbox-field-Cu5fDNRH.js";import"./createToggleChangeHandler-DXbZSfNQ.js";function p(){return e.jsx(o,{name:"autoGenerateEvent",type:"checkbox",component:n,label:t.t("Create an event in this stage on enrollment"),dataTest:"formfields-autoGenerateEvent"})}export{p as AutoGenerateEventField};
-//# sourceMappingURL=AutoGenerateEventField-v_TFf_1U.js.map
