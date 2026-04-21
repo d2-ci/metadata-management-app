@@ -1,1 +1,0 @@
-{"version":3,"file":"List-BbWJl94L.js","sources":["../../src/D2App/pages/programDisaggregations/List.tsx"],"sourcesContent":["import React from 'react'\nimport { ProgramsList } from './list/ProgramsList'\n\nexport const Component: React.FC = () => {\n    return <ProgramsList />\n}\n"],"names":["Component","ProgramsList"],"mappings":"mMAGO,MAAMA,EAAsBA,UACvBC,EAAA,EAAY"}
