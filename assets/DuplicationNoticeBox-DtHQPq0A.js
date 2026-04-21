@@ -1,0 +1,2 @@
+import{j as i,N as a,i as t}from"./main-BcZ11H9x.js";import{r as s}from"./App-Cr0LWjlY.js";const n="_noticeBox_1ilga_1",c={noticeBox:n};function r({section:o}){const{initialValues:e}=s({subscription:{initialValues:!0}});return i.jsx(a,{title:t.t("Duplicating {{duplicatedModelName}}",{duplicatedModelName:e==null?void 0:e.displayName}),className:c.noticeBox,children:t.t("All values from the original {{-sectionName}} are included. Values that must be unique need to be updated.",{sectionName:o.title})})}export{r as D};
+//# sourceMappingURL=DuplicationNoticeBox-DtHQPq0A.js.map

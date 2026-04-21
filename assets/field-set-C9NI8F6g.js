@@ -1,0 +1,2 @@
+import{R as s,_ as i,P as e}from"./main-BcZ11H9x.js";const l=t=>{let{className:a,children:r,dataTest:d="dhis2-uicore-fieldset"}=t;return s.createElement("fieldset",{"data-test":d,className:"jsx-3541500486 "+(a||"")},r,s.createElement(i,{id:"3541500486"},["fieldset.jsx-3541500486{border:none;margin:0;padding:0;}"]))};l.propTypes={children:e.node,className:e.string,dataTest:e.string};export{l as F};
+//# sourceMappingURL=field-set-C9NI8F6g.js.map
