@@ -1,2 +1,0 @@
-import{p as o,am as a,o as e,s as r,aq as s}from"./App-u-7eAI8P.js";import"./main-BzyH8A0f.js";import{g as n}from"./getDefaults-DHtbNu_b.js";const{identifiable:i}=o,t=s(["LISTING","SEQUENTIAL","MATRIX"]),m=i.extend({description:r().optional(),renderType:e({MOBILE:e({type:t.default("LISTING")}),DESKTOP:e({type:t.default("LISTING")})}),sortOrder:a.number().int().default(0)}),S=n(m);export{S as initialStageSectionValues,m as stageSectionFormSchema};
-//# sourceMappingURL=stageSectionFormSchema-C6gNhqqd.js.map
