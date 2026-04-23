@@ -1,2 +1,0 @@
-import{j as t,i as o}from"./main-BnXvF9ZY.js";import{z as e}from"./App-C3uJx_ka.js";import{C as i}from"./CheckboxFieldFF-CbB0XV1f.js";import"./checkbox-field-CH-Xky07.js";import"./createToggleChangeHandler-DXbZSfNQ.js";function n(){return t.jsx(e,{component:i,type:"checkbox",name:"allowAuditLog",dataTest:"formfields-allowAuditLog",label:o.t("Enable tracked entity instance audit log"),validateFields:[]})}export{n as AllowAuditLogField};
-//# sourceMappingURL=AllowAuditLogField-ydoAkUEC.js.map
