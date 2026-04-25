@@ -1,0 +1,2 @@
+import{o as t,p as o,ai as e,s as a}from"./App-qjGX4Xq1.js";import"./main-CWztwMyp.js";const{withDefaultListColumns:r,withAttributeValues:s}=o,i=t({name:a().trim(),periodType:a().trim(),categoryCombo:t({id:a()}).optional(),dataSets:e(t({id:a()})).default([]),dataApprovalLevels:e(t({id:a()})).default([])}),l=i.merge(r).merge(s);export{l as dataApprovalWorkflowListSchema};
+//# sourceMappingURL=dataApprovalWorkflowSchema-DuE-ZPBB.js.map
