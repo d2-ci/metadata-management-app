@@ -1,2 +1,0 @@
-import{j as s}from"./main-Ci07bNZT.js";import{b3 as a}from"./App-DguzZOjQ.js";const i=({children:r,title:e})=>s.jsxs("div",{className:a.paddedContainerContainer,children:[e&&s.jsx("div",{className:a.paddedContainerTitle,children:e}),r]});export{i as P};
-//# sourceMappingURL=PaddedContainer-Cb5eEHUZ.js.map

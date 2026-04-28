@@ -1,0 +1,2 @@
+import{j as a,i as e}from"./main-C4WYoWQd.js";import"./App-BNL6xE8K.js";import{M as l}from"./ModelMultiSelectField-jpl-yKA0.js";function o(){return a.jsx(l,{name:"dataApprovalLevels",label:e.t("Data approval levels"),dataTest:"formfields-dataapprovallevels",inputWidth:"400px",query:{resource:"dataApprovalLevels",params:{fields:["id","displayName"],order:["displayName"]}}})}export{o as DataApprovalLevelsField};
+//# sourceMappingURL=DataApprovalLevelsField-BeH83nAk.js.map
