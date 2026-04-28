@@ -1,0 +1,2 @@
+import{u as l}from"./App-QL3O-WFI.js";import{u as c}from"./main-CBl8I9kP.js";const p=({categoryComboId:e,selectedCategories:t,...o})=>{const s=l(),i=`id:ne:${e}`,n=t.map(a=>`categories.id:eq:${a.id}`),r=[`categories:eq:${t.length}`,...n];e&&r.push(i);const u={resource:"categoryCombos",params:{fields:["id","displayName"],filter:r}};return c({staleTime:60*1e3,...o,queryKey:[u],queryFn:s})};export{p as useIdenticalCategoryCombosQuery};
+//# sourceMappingURL=useIdenticalCategoryCombosQuery-_XOEZBji.js.map
