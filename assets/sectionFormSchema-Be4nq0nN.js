@@ -1,0 +1,2 @@
+import{p as o,o as e,s as i,aq as n}from"./App-DNM_MwX_.js";import"./main-2k_25hNQ.js";import{g as r}from"./getDefaults-CcVp8d3k.js";const{identifiable:a,referenceCollection:s}=o,t=n(["LISTING","SEQUENTIAL","MATRIX"]),c=a.extend({description:i().optional(),renderType:e({MOBILE:e({type:t.default("LISTING")}),DESKTOP:e({type:t.default("LISTING")})}),trackedEntityAttributes:s}),T=r(c);export{T as initialSectionValues,c as sectionFormSchema};
+//# sourceMappingURL=sectionFormSchema-Be4nq0nN.js.map
