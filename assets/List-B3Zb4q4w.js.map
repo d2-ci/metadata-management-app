@@ -1,0 +1,1 @@
+{"version":3,"file":"List-B3Zb4q4w.js","sources":["../../src/D2App/pages/dataSetNotificationTemplates/List.tsx"],"sourcesContent":["import { DefaultSectionList } from '../DefaultSectionList'\n\nexport const Component = DefaultSectionList\n"],"names":["Component","DefaultSectionList"],"mappings":"omCAEO,MAAMA,EAAYC"}
