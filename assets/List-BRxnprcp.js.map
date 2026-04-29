@@ -1,1 +1,0 @@
-{"version":3,"file":"List-BRxnprcp.js","sources":["../../src/D2App/pages/validationRuleGroups/List.tsx"],"sourcesContent":["import React from 'react'\nimport { DefaultSectionList } from '../DefaultSectionList'\n\nexport const Component = () => <DefaultSectionList />\n"],"names":["Component","jsx","DefaultSectionList"],"mappings":"gnCAGO,MAAMA,EAAYA,IAAMC,MAACC,EAAA,CAAA,CAAkB"}
