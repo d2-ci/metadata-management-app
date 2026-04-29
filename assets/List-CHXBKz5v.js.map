@@ -1,0 +1,1 @@
+{"version":3,"file":"List-CHXBKz5v.js","sources":["../../src/D2App/pages/dataElementGroups/List.tsx"],"sourcesContent":["import { DefaultSectionList } from '../DefaultSectionList'\n\nexport const Component = DefaultSectionList\n"],"names":["Component","DefaultSectionList"],"mappings":"omCAEO,MAAMA,EAAYC"}
