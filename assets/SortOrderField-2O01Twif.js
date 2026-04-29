@@ -1,0 +1,2 @@
+import{j as e,i as r}from"./main-DUVtU-0Z.js";import{A as n}from"./App-B0f3nGdo.js";import{I as p}from"./InputFieldFF-C4FJKN3e.js";const f=()=>{const s="sortOrder",{input:o,meta:i}=n(s,{parse:t=>t===void 0||t===""?0:parseFloat(t),type:"number",format:t=>t==null?void 0:t.toString()});return e.jsx(p,{dataTest:"formfields-sortOrder",input:o,meta:i,inputWidth:"250px",label:r.t("Display order"),helpText:r.t("Enter a number to set this attribute’s position in lists and forms.")})};export{f as SortOrderField};
+//# sourceMappingURL=SortOrderField-2O01Twif.js.map
