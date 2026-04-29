@@ -1,0 +1,2 @@
+import{r,P as t}from"./main-DUVtU-0Z.js";function l(e){let{color:a,dataTest:o,ariaLabel:s}=e;return r.createElement("svg",{height:16,viewBox:"0 0 16 16",width:16,xmlns:"http://www.w3.org/2000/svg",color:a,"data-test":o},r.createElement("path",{d:"M9.146 4.146a.5.5 0 01.765.638l-.057.07L6.707 8l3.147 3.146a.5.5 0 01.057.638l-.057.07a.5.5 0 01-.638.057l-.07-.057-3.5-3.5a.5.5 0 01-.057-.638l.057-.07z",fill:"currentColor"}))}l.propTypes={color:t.string,dataTest:t.string,ariaLabel:t.string};export{l as S};
+//# sourceMappingURL=ChevronLeft16-CuEOPC7n.js.map
