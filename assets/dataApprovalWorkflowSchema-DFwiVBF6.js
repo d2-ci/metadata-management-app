@@ -1,2 +1,0 @@
-import{y as t,z as o,an as e,C as a}from"./App-Btj_rFF4.js";import"./main-DwWraJMr.js";const{withDefaultListColumns:r,withAttributeValues:s}=o,i=t({name:a().trim(),periodType:a().trim(),categoryCombo:t({id:a()}).optional(),dataSets:e(t({id:a()})).default([]),dataApprovalLevels:e(t({id:a()})).default([])}),l=i.merge(r).merge(s);export{l as dataApprovalWorkflowListSchema};
-//# sourceMappingURL=dataApprovalWorkflowSchema-DFwiVBF6.js.map
