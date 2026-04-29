@@ -1,0 +1,2 @@
+import{y as a,aI as e,C as o,A as p}from"./App-Btj_rFF4.js";import"./main-DwWraJMr.js";const t=a({owner:o().optional(),external:p().optional(),public:o().optional(),userGroups:e(a({id:o(),access:o(),displayName:o().optional()})).optional(),users:e(a({id:o(),access:o(),displayName:o().optional()})).optional()});export{t as sharingSettingsSchema};
+//# sourceMappingURL=sharingSettingsSchema-DKbuiWdY.js.map
