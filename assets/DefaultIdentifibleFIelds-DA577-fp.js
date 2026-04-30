@@ -1,0 +1,2 @@
+import{j as r}from"./main-BkEWatBu.js";import{aH as s}from"./App-Cu3eK7Az.js";import{S as o}from"./StandardFormField-Ci3q9Q1V.js";import{C as i}from"./CodeField-QX0qQFvu.js";import{N as m}from"./NameField-BNhX2oVW.js";import{S as t}from"./ShortNameField-CRFUcNfF.js";const j=()=>{const e=s();return r.jsxs(r.Fragment,{children:[r.jsx(o,{children:r.jsx(m,{schemaSection:e})}),r.jsx(o,{children:r.jsx(t,{schemaSection:e})}),r.jsx(o,{children:r.jsx(i,{schemaSection:e})})]})};export{j as D};
+//# sourceMappingURL=DefaultIdentifibleFIelds-DA577-fp.js.map
