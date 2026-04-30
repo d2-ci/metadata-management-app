@@ -191,7 +191,7 @@
       "url": "#/analyticsTableHooks"
     }
   ],
-  "version": "0.151.4",
+  "version": "0.151.5",
   "description": "",
   "entryPoints": {
     "app": "index.html"
