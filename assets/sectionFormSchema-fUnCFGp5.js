@@ -1,0 +1,2 @@
+import{X as o,W as e,$ as i,ab as n}from"./App-CiFVgIF1.js";import"./main-svVslkMQ.js";import{g as r}from"./getDefaults-DeQQ_0L2.js";const{identifiable:a,referenceCollection:s}=o,t=n(["LISTING","SEQUENTIAL","MATRIX"]),c=a.extend({description:i().optional(),renderType:e({MOBILE:e({type:t.default("LISTING")}),DESKTOP:e({type:t.default("LISTING")})}),trackedEntityAttributes:s}),T=r(c);export{T as initialSectionValues,c as sectionFormSchema};
+//# sourceMappingURL=sectionFormSchema-fUnCFGp5.js.map
