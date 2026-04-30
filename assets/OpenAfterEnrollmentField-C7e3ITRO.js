@@ -1,0 +1,2 @@
+import{j as e,i as t}from"./main-B_wfmGa7.js";import{x as o}from"./App-Cg8PYufY.js";import{C as r}from"./CheckboxFieldFF-B06vVfuN.js";import"./checkbox-field-G3K693zA.js";import"./createToggleChangeHandler-DXbZSfNQ.js";function p(){return e.jsx(o,{name:"openAfterEnrollment",type:"checkbox",component:r,label:t.t("Open data entry form after enrollment"),dataTest:"formfields-openAfterEnrollment",validateFields:[]})}export{p as OpenAfterEnrollmentField};
+//# sourceMappingURL=OpenAfterEnrollmentField-C7e3ITRO.js.map
