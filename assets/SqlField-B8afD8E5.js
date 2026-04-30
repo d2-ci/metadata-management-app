@@ -1,0 +1,2 @@
+import{j as e,i as t}from"./main-DkGQJomm.js";import{z as i,D as r}from"./App-BzyQPTFe.js";function a(){return e.jsx(i,{component:r,name:"sql",label:t.t("SQL"),required:!0,inputWidth:"400px",dataTest:"formfields-sql"})}export{a as SqlField};
+//# sourceMappingURL=SqlField-B8afD8E5.js.map
