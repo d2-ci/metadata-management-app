@@ -1,0 +1,2 @@
+import{j as e,i as t}from"./main-2-Kc_a3d.js";import{a as r}from"./ModelSingleSelectField-DprC-Vtk.js";import"./App-DGY4PePF.js";function l(){return e.jsx("div",{style:{width:"400px"},children:e.jsx(r,{dataTest:"formfields-trackedEntityType",name:"trackedEntityType",label:t.t("Tracked entity"),query:{resource:"trackedEntityTypes",params:{fields:["id","displayName"],order:"displayName:iasc"}},clearable:!0,clearText:t.t("<No value>")})})}export{l as TrackedEntityTypeField};
+//# sourceMappingURL=TrackedEntityTypeField-CAD-6kt5.js.map

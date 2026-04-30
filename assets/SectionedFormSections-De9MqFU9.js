@@ -1,0 +1,2 @@
+import{j as t}from"./main-2-Kc_a3d.js";import{T as i}from"./TranslatedFieldsNoticeBox-C3c6tJ0Q.js";import{c as r}from"./SectionForm.module-CiflWl4h.js";const m=({children:s,hidden:o})=>t.jsxs("div",{className:r.sections,id:"sections",hidden:o,children:[t.jsx(i,{}),s]}),d=({children:s,name:o,hidden:e})=>t.jsx("section",{id:o,hidden:e,children:s});export{m as S,d as a};
+//# sourceMappingURL=SectionedFormSections-De9MqFU9.js.map
