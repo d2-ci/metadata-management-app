@@ -1,0 +1,2 @@
+import{j as t,i}from"./main-CQeNc6gk.js";import{r as e}from"./App-CJrykSka.js";import{I as n}from"./InputFieldFF-JS4_Gl06.js";function u(){return t.jsx(e,{component:n,inputWidth:"200px",name:"minAttributesRequiredToSearch",dataTest:"formfields-minattributesrequiredtosearch",type:"number",min:"1",label:i.t("Minimum number of attributes required to search"),format:r=>r==null?void 0:r.toString(),parse:r=>r===void 0?1:r===""?0:Number.parseInt(r,10)})}export{u as MinAttributesRequiredField};
+//# sourceMappingURL=MinAttributesRequiredField-BawiY-Qb.js.map

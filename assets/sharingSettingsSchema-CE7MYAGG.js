@@ -1,2 +1,0 @@
-import{W as a,ap as e,$ as o,Y as p}from"./App-CiFVgIF1.js";import"./main-svVslkMQ.js";const t=a({owner:o().optional(),external:p().optional(),public:o().optional(),userGroups:e(a({id:o(),access:o(),displayName:o().optional()})).optional(),users:e(a({id:o(),access:o(),displayName:o().optional()})).optional()});export{t as sharingSettingsSchema};
-//# sourceMappingURL=sharingSettingsSchema-CE7MYAGG.js.map

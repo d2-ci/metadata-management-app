@@ -1,2 +1,0 @@
-import{X as a,a7 as o,W as e,$ as r,ab as n}from"./App-CiFVgIF1.js";import"./main-svVslkMQ.js";import{g as s}from"./getDefaults-DeQQ_0L2.js";const{identifiable:i}=a,t=n(["LISTING","SEQUENTIAL","MATRIX"]),c=i.extend({description:r().optional(),renderType:e({MOBILE:e({type:t.default("LISTING")}),DESKTOP:e({type:t.default("LISTING")})}),sortOrder:o.number().int().default(0)}),S=s(c);export{S as initialStageSectionValues,c as stageSectionFormSchema};
-//# sourceMappingURL=stageSectionFormSchema-k8aYIhco.js.map

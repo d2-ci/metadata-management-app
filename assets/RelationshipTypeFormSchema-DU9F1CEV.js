@@ -1,2 +1,0 @@
-import{W as o,X as t,Y as a,$ as e}from"./App-CiFVgIF1.js";import"./main-svVslkMQ.js";const{withDefaultListColumns:s,withAttributeValues:m}=t,r=o({fromToName:e(),toFromName:e().optional(),displayFromToName:e(),displayToFromName:e(),bidirectional:a().default(!1),referral:a().default(!1)}),p=r.merge(s).merge(m);export{p as relationshipTypeListSchema};
-//# sourceMappingURL=RelationshipTypeFormSchema-DU9F1CEV.js.map
