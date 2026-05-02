@@ -1,2 +1,0 @@
-const a=e=>{const i=(e.programTrackedEntityAttributes??[]).filter(t=>t.mandatory);if(i.length===0)return[];const n=Array.isArray(e.programSections)?e.programSections:[],s=new Set(n.filter(t=>!t.deleted).flatMap(t=>(t.trackedEntityAttributes??[]).map(r=>r.id)));return i.filter(t=>{var r;return!s.has(((r=t.trackedEntityAttribute)==null?void 0:r.id)??"")})};export{a as getMandatoryAttributesMissingFromSections};
-//# sourceMappingURL=mandatoryEnrollmentAttributes-CFj6SrjN.js.map
