@@ -1,2 +1,0 @@
-import{a4 as o,a5 as t,a6 as a,a8 as e}from"./App-DGY4PePF.js";import"./main-2-Kc_a3d.js";const{withDefaultListColumns:s,withAttributeValues:m}=t,r=o({fromToName:e(),toFromName:e().optional(),displayFromToName:e(),displayToFromName:e(),bidirectional:a().default(!1),referral:a().default(!1)}),p=r.merge(s).merge(m);export{p as relationshipTypeListSchema};
-//# sourceMappingURL=RelationshipTypeFormSchema-Dgxi7-Pd.js.map
