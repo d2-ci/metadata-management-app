@@ -1,2 +1,0 @@
-import{j as r,w as e,i as a}from"./main-CrLKngx2.js";import{S as c,a as x,b as L,c as f}from"./SectionListMessages-CLyi_uuN.js";import"./App-CfIEe_Ir.js";const g=({orgUnitCount:i,isFiltering:n,queries:t})=>{const o=t.find(s=>s.error);return o?(console.error(o.error),r.jsx(c,{})):i<1&&t.some(s=>s.isLoading||s.isFetching)?r.jsx(x,{}):n&&i<1?r.jsx(L,{}):i<1?r.jsx(f,{children:r.jsx(e,{children:a.t("No organisation units available")})}):null};export{g as OrganisationUnitListMessage};
-//# sourceMappingURL=OrganisationUnitListMessage-DC3UETHS.js.map
