@@ -1,0 +1,1 @@
+{"version":3,"file":"List-BWd_8j75.js","sources":["../../src/D2App/pages/optionGroupSets/List.tsx"],"sourcesContent":["import React from 'react'\nimport { DefaultSectionList } from '../DefaultSectionList'\n\nexport const Component = () => <DefaultSectionList />\n"],"names":["Component","jsx","DefaultSectionList"],"mappings":"gnCAGO,MAAMA,EAAYA,IAAMC,MAACC,EAAA,CAAA,CAAkB"}
