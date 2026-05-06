@@ -1,2 +1,0 @@
-import{a5 as o,a4 as e,a8 as a,ak as i}from"./App-BnT3mJPb.js";import"./main-DoGtgl8-.js";import{g as n}from"./getDefaults-S7DFdQtU.js";const{identifiable:r,referenceCollection:s}=o,t=i(["LISTING","SEQUENTIAL","MATRIX"]),c=r.extend({description:a().optional(),renderType:e({MOBILE:e({type:t.default("LISTING")}),DESKTOP:e({type:t.default("LISTING")})}),trackedEntityAttributes:s}),T=n(c);export{T as initialSectionValues,c as sectionFormSchema};
-//# sourceMappingURL=sectionFormSchema-CnPxYXAr.js.map
