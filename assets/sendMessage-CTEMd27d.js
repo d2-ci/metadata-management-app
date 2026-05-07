@@ -1,0 +1,2 @@
+import{j as r}from"./main-DbPlML-5.js";import"./App-CvZvgQQX.js";import{S as e}from"./StandardFormField-bJSQs0oc.js";import"./LocationField-DyiLCKXS.js";import{NotificationTemplateField as o}from"./NotificationTemplateField-s2I44FxR.js";import"./ModelSingleSelectField-C_LqLmFo.js";function f(i,t){return r.jsx(e,{children:r.jsx(o,{programId:i,required:!0,disabled:t})})}export{f as sendMessage};
+//# sourceMappingURL=sendMessage-CTEMd27d.js.map
