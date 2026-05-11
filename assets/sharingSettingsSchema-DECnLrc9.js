@@ -1,2 +1,0 @@
-import{o as a,at as e,s as o,t as s}from"./App-I0uqAE4z.js";import"./main-DtcSyTBL.js";const i=a({owner:o().optional(),external:s().optional(),public:o().optional(),userGroups:e(a({id:o(),access:o(),displayName:o().optional()})).optional(),users:e(a({id:o(),access:o(),displayName:o().optional()})).optional()});export{i as sharingSettingsSchema};
-//# sourceMappingURL=sharingSettingsSchema-DECnLrc9.js.map
