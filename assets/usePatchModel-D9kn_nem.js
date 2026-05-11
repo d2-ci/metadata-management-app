@@ -1,2 +1,0 @@
-import{u as c,r as o}from"./main-C4qjXNYU.js";import{p}from"./apiErrors-DOWmZcFy.js";const u=(t,a)=>({resource:a,id:t,type:"json-patch",data:({operations:r})=>r}),y=(t,a)=>{const r=c(),[e]=o.useState(()=>u(t,a));return o.useCallback(async n=>{try{return{data:await r.mutate(e,{variables:{operations:n}})}}catch(s){return{error:p(s)}}},[r,e])};export{y as u};
-//# sourceMappingURL=usePatchModel-D9kn_nem.js.map
