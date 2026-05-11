@@ -1,2 +1,0 @@
-import{j as r}from"./main-DbPlML-5.js";import{aC as s}from"./App-CvZvgQQX.js";import{S as o}from"./StandardFormField-bJSQs0oc.js";import{C as i}from"./CodeField-vAe9DTD2.js";import{N as m}from"./NameField-2xcj8tfz.js";import{S as t}from"./ShortNameField-XzB9G7e-.js";const j=()=>{const e=s();return r.jsxs(r.Fragment,{children:[r.jsx(o,{children:r.jsx(m,{schemaSection:e})}),r.jsx(o,{children:r.jsx(t,{schemaSection:e})}),r.jsx(o,{children:r.jsx(i,{schemaSection:e})})]})};export{j as D};
-//# sourceMappingURL=DefaultIdentifibleFIelds-HSLu3lLL.js.map

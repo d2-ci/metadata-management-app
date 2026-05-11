@@ -1,2 +1,0 @@
-import{j as r,i as e}from"./main-DbPlML-5.js";import"./App-CvZvgQQX.js";import{S as o}from"./StandardFormField-bJSQs0oc.js";import{ProgramStageSelectField as i}from"./ProgramStageSelectField-CVQF5bX4.js";import"./LocationField-DyiLCKXS.js";import"./ModelSingleSelectField-C_LqLmFo.js";function g(t){return r.jsx(o,{children:r.jsx(i,{programId:t,label:e.t("Program stage"),required:!0})})}export{g as hideProgramStage};
-//# sourceMappingURL=hideProgramStage-f6b2Qu_A.js.map
