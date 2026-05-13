@@ -1,0 +1,2 @@
+import{j as r}from"./main-D1HJSUy5.js";import"./App-DTkfa-FH.js";import{S as e}from"./StandardFormField-ly3Qaq95.js";import"./LocationField-cwuBPzGq.js";import{NotificationTemplateField as o}from"./NotificationTemplateField-DVBqwhtn.js";import"./ModelSingleSelectField-BLE4InGW.js";function f(i,t){return r.jsx(e,{children:r.jsx(o,{programId:i,required:!0,disabled:t})})}export{f as sendMessage};
+//# sourceMappingURL=sendMessage-yFMsfXQk.js.map
