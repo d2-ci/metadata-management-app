@@ -1,0 +1,2 @@
+import{j as i,f as e}from"./main-Cnds0sUg.js";import{D as p}from"./App-BEc5cd9N.js";import{I as s}from"./InputFieldFF-B4v918AY.js";function j({name:t,label:r,required:o}){return i.jsx(p,{name:t,children:({input:n,meta:x})=>i.jsx(e,{width:"400px",minWidth:"100px",children:i.jsx(s,{input:n,meta:x,label:r,required:o})})})}export{j as ActionTextInputField};
+//# sourceMappingURL=ActionTextInputField-CDCL_53U.js.map
