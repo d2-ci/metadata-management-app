@@ -1,0 +1,2 @@
+import{j as t,F as l}from"./main-CREpclp1.js";import{F as s}from"./field-set-DJoh9eCr.js";const r="_horizontalField_z0bbk_1",d={horizontalField:r},c=({className:a,children:i,...e})=>{var o;return t.jsx(s,{className:a,dataTest:(o=s.defaultProps)==null?void 0:o.dataTest,children:t.jsx(l,{...e,className:d.horizontalField,children:i})})};export{c as H};
+//# sourceMappingURL=HorizontalFieldGroup-D44J95l8.js.map

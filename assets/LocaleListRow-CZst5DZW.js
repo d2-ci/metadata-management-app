@@ -1,0 +1,2 @@
+import{R,j as s,t as j}from"./main-CREpclp1.js";import{bc as m,bd as e,be as o}from"./App-DednOdAY.js";const l=R.memo(function({active:i,selectedColumns:c,modelData:t,onClick:a,renderActions:x,renderColumnValue:p}){return s.jsxs(m,{className:j(o.listRow,{[o.active]:i}),dataTest:"section-list-row",children:[s.jsx(e,{width:"48px"}),c.map(r=>s.jsx(e,{onClick:()=>a==null?void 0:a(t),children:p(r,t)},r.path)),s.jsx(e,{children:x(t)})]})});export{l as LocaleListRow};
+//# sourceMappingURL=LocaleListRow-CZst5DZW.js.map
