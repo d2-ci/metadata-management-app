@@ -1,0 +1,2 @@
+import{j as o,i as t}from"./main-JWTLTph8.js";import{D as e}from"./App-CMJ5rtIM.js";import{C as r}from"./CheckboxFieldFF-3i_mK1qz.js";import"./checkbox-field-zJ0EHntl.js";import"./createToggleChangeHandler-DXbZSfNQ.js";function p(){return o.jsx(e,{component:r,dataTest:"formfields-compulsory",name:"compulsory",label:t.t("Compulsory: all data elements must belong to at least one group in this group set.",{nsSeparator:"~:~"}),type:"checkbox",validateFields:[]})}export{p as CompulsoryField};
+//# sourceMappingURL=CompulsoryField-Cebo9_ix.js.map
