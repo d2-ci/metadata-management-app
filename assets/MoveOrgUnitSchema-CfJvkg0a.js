@@ -1,0 +1,2 @@
+import{i as r}from"./main-CLq5uvX9.js";import{o as t,m as a,s as e}from"./App-DJdf27m-.js";import{c as m}from"./validate-DgrkIXIQ.js";import{m as i}from"./mergeSchemaBase-B5o3q9IW.js";const o=t({id:e(),displayName:e(),path:e()}),s=i.extend({sources:a(o).min(1,r.t("At least one org unit is required")),target:o.optional()}),g=m(s);export{s as moveFormSchema,g as moveOrgUnitFormValidate};
+//# sourceMappingURL=MoveOrgUnitSchema-CfJvkg0a.js.map
