@@ -1,0 +1,2 @@
+import{i as a}from"./main-Che-27g3.js";import{e}from"./App-CQsjk7n6.js";const o=[{value:"",label:a.t("<No value>")},{value:"NONE",label:a.t("None")},{value:"POINT",label:a.t("Point")},{value:"POLYGON",label:a.t("Polygon")}],N=[{value:"ON_COMPLETE",label:e("ON_COMPLETE")},{value:"ON_UPDATE_AND_INSERT",label:e("ON_UPDATE_AND_INSERT")}];export{o as featureTypeOptions,N as validationStrategyOptions};
+//# sourceMappingURL=constants-letEQWzq.js.map
