@@ -1,2 +1,0 @@
-import{o as t,v as s,m as i,s as e,a6 as a}from"./App-aJI4CBw_.js";import"./main-dOE7q_xk.js";import{g as m}from"./getDefaults-BVElcaa5.js";const{identifiable:r,withDefaultListColumns:l,withAttributeValues:n}=s,o=t({name:e().trim(),code:e().trim().optional(),symbolizer:e().optional(),legends:i(t({id:e(),name:e(),startValue:a(),endValue:a(),color:e()})).optional()}),g=r.merge(o).merge(n).merge(l),u=m(o);export{u as initialValues,o as legendSetBaseSchema,g as legendSetListSchema};
-//# sourceMappingURL=legendSetListSchema-CY9OLbR7.js.map
