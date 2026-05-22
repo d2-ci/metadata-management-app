@@ -1,0 +1,2 @@
+import{aA as a}from"./main-r6F0IIv4.js";import{dA as d}from"./App-DR__QKA2.js";import{I as f}from"./InputFieldFF--gwk-UN_.js";const c=({fieldName:r,label:s,helpText:i,required:o=!1,defaultValue:m=0})=>{const p=o?m:void 0,{input:n,meta:e}=d(r,{parse:t=>t===void 0||t===""?p:Number.parseFloat(t),type:"number",format:t=>t==null?void 0:t.toString()});return a.jsx(f,{input:n,meta:e,inputWidth:"250px",label:s,helpText:i,required:o})};export{c as NumberField};
+//# sourceMappingURL=NumberField-BO7gbebC.js.map

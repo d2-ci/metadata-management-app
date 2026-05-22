@@ -1,0 +1,2 @@
+import{cL as o,cU as e,df as i,c0 as n}from"./App-DR__QKA2.js";import"./main-r6F0IIv4.js";import{a as r}from"./getDefaults-DF2lD8Ac.js";const{identifiable:a,referenceCollection:c}=o,t=n(["LISTING","SEQUENTIAL","MATRIX"]),s=a.extend({description:i().optional(),renderType:e({MOBILE:e({type:t.default("LISTING")}),DESKTOP:e({type:t.default("LISTING")})}),trackedEntityAttributes:c}),l=r(s);export{l as initialSectionValues,s as sectionFormSchema};
+//# sourceMappingURL=sectionFormSchema-DfGNzLLC.js.map

@@ -1,0 +1,2 @@
+import{R as p,aA as s,a9 as R}from"./main-r6F0IIv4.js";import{F as m,E as r,bU as o}from"./App-DR__QKA2.js";const b=p.memo(function({active:e,selectedColumns:c,modelData:a,onClick:t,renderActions:x,renderColumnValue:n}){return s.jsxs(m,{className:R(o.listRow,{[o.active]:e}),dataTest:"section-list-row",children:[s.jsx(r,{width:"48px"}),c.map(i=>s.jsx(r,{onClick:()=>t==null?void 0:t(a),children:n(i,a)},i.path)),s.jsx(r,{children:x(a)})]})});export{b as IconListRow};
+//# sourceMappingURL=IconListRow-CSayJlvs.js.map

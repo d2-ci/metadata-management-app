@@ -1,0 +1,2 @@
+import{aA as r,ap as e}from"./main-r6F0IIv4.js";import"./App-DR__QKA2.js";import{S as o}from"./StandardFormField-B2Tj1Ukj.js";import{ProgramStageSelectField as a}from"./ProgramStageSelectField-B06F9XeN.js";import"./LocationField-DYTjMnos.js";import"./ModelSingleSelectField-CCvRocxk.js";function g(t){return r.jsx(o,{children:r.jsx(a,{programId:t,label:e.t("Program stage"),required:!0})})}export{g as hideProgramStage};
+//# sourceMappingURL=hideProgramStage-KueViMED.js.map

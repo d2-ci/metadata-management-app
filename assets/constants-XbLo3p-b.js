@@ -1,0 +1,2 @@
+import{ap as a}from"./main-r6F0IIv4.js";import{c8 as l}from"./App-DR__QKA2.js";const o=[{value:"",label:a.t("<No value>")},{value:"NONE",label:a.t("None")},{value:"POINT",label:a.t("Point")},{value:"POLYGON",label:a.t("Polygon")}],N=[{value:"ON_COMPLETE",label:l("ON_COMPLETE")},{value:"ON_UPDATE_AND_INSERT",label:l("ON_UPDATE_AND_INSERT")}];export{o as featureTypeOptions,N as validationStrategyOptions};
+//# sourceMappingURL=constants-XbLo3p-b.js.map

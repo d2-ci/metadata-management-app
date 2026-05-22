@@ -1,0 +1,2 @@
+import{R,aA as s,a9 as m}from"./main-r6F0IIv4.js";import{F as w,E as r,bU as o}from"./App-DR__QKA2.js";const n=R.memo(function({active:i,selectedColumns:c,modelData:a,onClick:t,renderActions:x,renderColumnValue:p}){return s.jsxs(w,{className:m(o.listRow,{[o.active]:i}),dataTest:"section-list-row",children:[s.jsx(r,{width:"48px"}),c.map(e=>s.jsx(r,{onClick:()=>t==null?void 0:t(a),children:p(e,a)},e.path)),s.jsx(r,{children:x(a)})]})});export{n as LocaleListRow};
+//# sourceMappingURL=LocaleListRow-B9Vguxsu.js.map

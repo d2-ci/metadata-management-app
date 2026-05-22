@@ -1,0 +1,2 @@
+import{aA as i,N as n,ap as o}from"./main-r6F0IIv4.js";import{dE as s}from"./App-DR__QKA2.js";const a="_noticeBox_1ilga_1",c={noticeBox:a};function m({section:t}){const{initialValues:e}=s({subscription:{initialValues:!0}});return i.jsx(n,{title:o.t("Cloning {{- clonedModelName}}",{clonedModelName:e==null?void 0:e.displayName}),className:c.noticeBox,children:o.t("All values from the original {{-sectionName}} are included. Values that must be unique need to be updated.",{sectionName:t.title})})}export{m as C};
+//# sourceMappingURL=CloneNoticeBox-Ca5rh9Mm.js.map

@@ -1,0 +1,2 @@
+import{b6 as c,aM as o}from"./main-r6F0IIv4.js";import{p}from"./apiErrors-Bif8MVFP.js";const u=(r,a)=>({resource:a,id:r,type:"json-patch",data:({operations:t})=>t}),y=(r,a)=>{const t=c(),[e]=o.useState(()=>u(r,a));return o.useCallback(async n=>{try{return{data:await t.mutate(e,{variables:{operations:n}})}}catch(s){return{error:p(s)}}},[t,e])};export{y as u};
+//# sourceMappingURL=usePatchModel-Bkxa81YW.js.map

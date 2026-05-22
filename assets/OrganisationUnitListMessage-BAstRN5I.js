@@ -1,0 +1,2 @@
+import{aA as r,d as e,ap as a}from"./main-r6F0IIv4.js";import{a as c,b as x,S as L,c as d}from"./SectionListMessages-B-Zne52g.js";import"./App-DR__QKA2.js";const g=({orgUnitCount:i,isFiltering:n,queries:t})=>{const o=t.find(s=>s.error);return o?(console.error(o.error),r.jsx(c,{})):i<1&&t.some(s=>s.isLoading||s.isFetching)?r.jsx(x,{}):n&&i<1?r.jsx(L,{}):i<1?r.jsx(d,{children:r.jsx(e,{children:a.t("No organisation units available")})}):null};export{g as OrganisationUnitListMessage};
+//# sourceMappingURL=OrganisationUnitListMessage-BAstRN5I.js.map
