@@ -1,0 +1,2 @@
+import{v as o,ab as a,o as e,s as r,af as s}from"./App-aJI4CBw_.js";import"./main-dOE7q_xk.js";import{g as n}from"./getDefaults-BVElcaa5.js";const{identifiable:i}=o,t=s(["LISTING","SEQUENTIAL","MATRIX"]),c=i.extend({description:r().optional(),renderType:e({MOBILE:e({type:t.default("LISTING")}),DESKTOP:e({type:t.default("LISTING")})}),sortOrder:a.number().int().default(0)}),S=n(c);export{S as initialStageSectionValues,c as stageSectionFormSchema};
+//# sourceMappingURL=stageSectionFormSchema-CclTXXGc.js.map
