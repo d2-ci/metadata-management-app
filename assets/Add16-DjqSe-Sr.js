@@ -1,2 +1,0 @@
-import{aM as a,s as t}from"./main-r6F0IIv4.js";function s(e){let{color:r,dataTest:o,ariaLabel:l}=e;return a.createElement("svg",{height:16,viewBox:"0 0 16 16",width:16,xmlns:"http://www.w3.org/2000/svg",color:r,"data-test":o},a.createElement("path",{d:"M8 2a1 1 0 011 1v4h4a1 1 0 010 2H9v4a1 1 0 01-2 0V9H3a1 1 0 110-2h4V3a1 1 0 011-1z",fill:"currentColor",fillRule:"evenodd"}))}s.propTypes={color:t.string,dataTest:t.string,ariaLabel:t.string};export{s as S};
-//# sourceMappingURL=Add16-DjqSe-Sr.js.map

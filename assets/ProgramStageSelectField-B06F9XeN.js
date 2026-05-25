@@ -1,2 +1,0 @@
-import{aA as m,ap as i}from"./main-r6F0IIv4.js";import{b as s}from"./ModelSingleSelectField-CCvRocxk.js";import"./App-DR__QKA2.js";function n({programId:r,label:a=i.t("Program stage"),required:e}){const o={resource:"programStages",params:{fields:["id","displayName"],filter:`program.id:eq:${r}`,paging:!1}};return m.jsx(s,{label:a,query:o,clearable:!e,format:t=>t??void 0,name:"programStage",required:e})}export{n as ProgramStageSelectField};
-//# sourceMappingURL=ProgramStageSelectField-B06F9XeN.js.map

@@ -1,2 +1,0 @@
-import{cU as a,d3 as e,df as o,bE as p}from"./App-DR__QKA2.js";import"./main-r6F0IIv4.js";const t=a({owner:o().optional(),external:p().optional(),public:o().optional(),userGroups:e(a({id:o(),access:o(),displayName:o().optional()})).optional(),users:e(a({id:o(),access:o(),displayName:o().optional()})).optional()});export{t as sharingSettingsSchema};
-//# sourceMappingURL=sharingSettingsSchema-BXrAM-3m.js.map

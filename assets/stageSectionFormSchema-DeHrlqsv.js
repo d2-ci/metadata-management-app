@@ -1,2 +1,0 @@
-import{cL as o,bI as a,cU as e,df as r,c0 as n}from"./App-DR__QKA2.js";import"./main-r6F0IIv4.js";import{a as s}from"./getDefaults-DF2lD8Ac.js";const{identifiable:c}=o,t=n(["LISTING","SEQUENTIAL","MATRIX"]),i=c.extend({description:r().optional(),renderType:e({MOBILE:e({type:t.default("LISTING")}),DESKTOP:e({type:t.default("LISTING")})}),sortOrder:a.number().int().default(0)}),S=s(i);export{S as initialStageSectionValues,i as stageSectionFormSchema};
-//# sourceMappingURL=stageSectionFormSchema-DeHrlqsv.js.map
