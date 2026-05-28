@@ -1,2 +1,0 @@
-import{j as r}from"./main-BttRMarC.js";import{aU as s}from"./App-B9nYpjM1.js";import{S as o}from"./StandardFormField-Dyt3W6gx.js";import{C as i}from"./CodeField-BJriMnVm.js";import{N as m}from"./NameField-D9aLJfPs.js";import{S as t}from"./ShortNameField-CnJkSmYe.js";const j=()=>{const e=s();return r.jsxs(r.Fragment,{children:[r.jsx(o,{children:r.jsx(m,{schemaSection:e})}),r.jsx(o,{children:r.jsx(t,{schemaSection:e})}),r.jsx(o,{children:r.jsx(i,{schemaSection:e})})]})};export{j as D};
-//# sourceMappingURL=DefaultIdentifibleFIelds-DhMHEyPt.js.map

@@ -1,2 +1,0 @@
-import{j as r,i as e}from"./main-BttRMarC.js";import"./App-B9nYpjM1.js";import{S as o}from"./StandardFormField-Dyt3W6gx.js";import{ProgramStageSelectField as i}from"./ProgramStageSelectField-Uq_U4-Tr.js";import"./LocationField-BoQWoJJ0.js";import"./ModelSingleSelectField-BgBiIovy.js";function g(t){return r.jsx(o,{children:r.jsx(i,{programId:t,label:e.t("Program stage"),required:!0})})}export{g as hideProgramStage};
-//# sourceMappingURL=hideProgramStage-B-_jP22k.js.map

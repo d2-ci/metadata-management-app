@@ -1,0 +1,2 @@
+import{i as e}from"./main-C_uPbcXl.js";const a={name:"OptionSet",label:e.t("Option Set"),sections:[{name:"basicInfo",label:e.t("Basic information"),fields:[{name:"name",label:e.t("Name")},{name:"code",label:e.t("Code")},{name:"description",label:e.t("Description")},{name:"valueType",label:e.t("Value type")}]},{name:"options",label:e.t("Options"),fields:[{name:"options",label:e.t("Options")}]}]};export{a as OptionSetFormDescriptor};
+//# sourceMappingURL=formDescriptor-Bhzx13ha.js.map
