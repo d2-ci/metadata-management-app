@@ -1,0 +1,2 @@
+import{i as t}from"./main-BttRMarC.js";import{optionGroupFields as p}from"./optionGroup-CKZFMGRI.js";import"./App-B9nYpjM1.js";import"./StandardFormField-Dyt3W6gx.js";import"./LocationField-BoQWoJJ0.js";import"./DataElementWithOptionSetField-DkxhQAN7.js";import"./useClearFormFields-B3bKXvH-.js";import"./TrackedEntityAttributeWithOptionSetField-1U0BB5ZH.js";import"./OptionGroupField-Bwcw2nGB.js";import"./ModelSingleSelectField-BgBiIovy.js";const x=o=>p(o,t.t("Option group to show"));export{x as showOptionGroup};
+//# sourceMappingURL=showOptionGroup-VVNjj2J9.js.map
