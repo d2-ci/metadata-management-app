@@ -1,0 +1,2 @@
+import{o as t,v as s,m as i,s as e,a6 as a}from"./App-Dq5w7Ghl.js";import"./main-BIVT_ryq.js";import{g as m}from"./getDefaults-CNofeww3.js";const{identifiable:r,withDefaultListColumns:l,withAttributeValues:n}=s,o=t({name:e().trim(),code:e().trim().optional(),symbolizer:e().optional(),legends:i(t({id:e(),name:e(),startValue:a(),endValue:a(),color:e()})).optional()}),g=r.merge(o).merge(n).merge(l),u=m(o);export{u as initialValues,o as legendSetBaseSchema,g as legendSetListSchema};
+//# sourceMappingURL=legendSetListSchema-CbGes71L.js.map

@@ -1,0 +1,2 @@
+import{o as a,av as e,s as o,t as s}from"./App-Dq5w7Ghl.js";import"./main-BIVT_ryq.js";const t=a({owner:o().optional(),external:s().optional(),public:o().optional(),userGroups:e(a({id:o(),access:o(),displayName:o().optional()})).optional(),users:e(a({id:o(),access:o(),displayName:o().optional()})).optional()});export{t as sharingSettingsSchema};
+//# sourceMappingURL=sharingSettingsSchema-DQKw18j3.js.map
