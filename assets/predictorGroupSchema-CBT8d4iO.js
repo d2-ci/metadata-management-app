@@ -1,2 +1,0 @@
-import{v as r,o as i,s as e}from"./App-DaXETTA9.js";import"./main-lqruOpBn.js";import{c as a}from"./validate-EI3rR3CD.js";import{g as s}from"./getDefaults-ChnRIfGq.js";const{identifiable:c,referenceCollection:m,withDefaultListColumns:p}=r,o=i({code:e().trim().optional(),description:e().trim().optional()}),t=c.merge(o).extend({predictors:m.default([])}),u=o.merge(p),g=s(t),h=a(t);export{g as initialValues,t as predictorGroupFormSchema,u as predictorGroupListSchema,h as validate};
-//# sourceMappingURL=predictorGroupSchema-CBT8d4iO.js.map
