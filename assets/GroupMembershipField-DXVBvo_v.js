@@ -1,0 +1,2 @@
+import{j as t,i as e}from"./main-DnrlzsvN.js";import"./App-CiMmNBus.js";import{M as i}from"./ModelTransferField-DE_IU-zo.js";function d({resource:r}){return t.jsx(i,{dataTest:`formfields-${r}`,name:r,query:{resource:r,params:{fields:["id","displayName"]}},leftHeader:e.t("Available groups"),rightHeader:e.t("Selected groups"),filterPlaceholder:e.t("Filter available groups"),filterPlaceholderPicked:e.t("Filter selected groups")})}export{d as G};
+//# sourceMappingURL=GroupMembershipField-DXVBvo_v.js.map
