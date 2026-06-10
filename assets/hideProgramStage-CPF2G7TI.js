@@ -1,0 +1,2 @@
+import{j as r,i as e}from"./main-BVJAbwlZ.js";import"./App-5tYkB2YM.js";import{S as o}from"./StandardFormField-yIkuJOwm.js";import{ProgramStageSelectField as i}from"./ProgramStageSelectField-Cj0tTNP3.js";import"./LocationField-DtUFvtaC.js";import"./ModelSingleSelectField-CZvJLbQA.js";function g(t){return r.jsx(o,{children:r.jsx(i,{programId:t,label:e.t("Program stage"),required:!0})})}export{g as hideProgramStage};
+//# sourceMappingURL=hideProgramStage-CPF2G7TI.js.map
