@@ -1,2 +1,0 @@
-import{j as i,B as e}from"./main-CJK3VI75.js";import{Y as p}from"./App-CgQgRN-l.js";import{I as s}from"./InputFieldFF-CZZiN39-.js";function l({name:t,label:r,required:o}){return i.jsx(p,{name:t,children:({input:n,meta:x})=>i.jsx(e,{width:"400px",minWidth:"100px",children:i.jsx(s,{input:n,meta:x,label:r,required:o})})})}export{l as ActionTextInputField};
-//# sourceMappingURL=ActionTextInputField-B-Dy2k7k.js.map
