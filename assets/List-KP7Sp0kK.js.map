@@ -1,0 +1,1 @@
+{"version":3,"file":"List-KP7Sp0kK.js","sources":["../../src/D2App/pages/categoryOptionGroups/List.tsx"],"sourcesContent":["import { DefaultSectionList } from '../DefaultSectionList'\n\nexport const Component = DefaultSectionList\n"],"names":["Component","DefaultSectionList"],"mappings":"i4CAEO,MAAMA,EAAYC"}
