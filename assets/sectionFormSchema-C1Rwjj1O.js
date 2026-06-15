@@ -1,2 +1,0 @@
-import{J as o,y as e,A as i,au as n}from"./App-C_6I9nIM.js";import"./main-DsE3_HM2.js";import{g as r}from"./getDefaults-BaDTX-_7.js";const{identifiable:a,referenceCollection:s}=o,t=n(["LISTING","SEQUENTIAL","MATRIX"]),c=a.extend({description:i().optional(),renderType:e({MOBILE:e({type:t.default("LISTING")}),DESKTOP:e({type:t.default("LISTING")})}),trackedEntityAttributes:s}),T=r(c);export{T as initialSectionValues,c as sectionFormSchema};
-//# sourceMappingURL=sectionFormSchema-C1Rwjj1O.js.map
