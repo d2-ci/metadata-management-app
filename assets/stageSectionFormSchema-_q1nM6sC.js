@@ -1,2 +1,0 @@
-import{J as o,ao as a,y as e,A as r,av as n}from"./App-DiqR9-w_.js";import"./main-BbyUkapt.js";import{g as s}from"./getDefaults-BnLNkevr.js";const{identifiable:i}=o,t=n(["LISTING","SEQUENTIAL","MATRIX"]),c=i.extend({description:r().optional(),renderType:e({MOBILE:e({type:t.default("LISTING")}),DESKTOP:e({type:t.default("LISTING")})}),sortOrder:a.number().int().default(0)}),S=s(c);export{S as initialStageSectionValues,c as stageSectionFormSchema};
-//# sourceMappingURL=stageSectionFormSchema-_q1nM6sC.js.map
