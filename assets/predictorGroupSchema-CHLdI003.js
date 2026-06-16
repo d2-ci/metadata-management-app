@@ -1,0 +1,2 @@
+import{J as r,y as i,A as e}from"./App-Dxzslblv.js";import"./main-BOFp_3qv.js";import{c as a}from"./validate-DDw0ejCK.js";import{g as c}from"./getDefaults-CTGy2g0E.js";const{identifiable:s,referenceCollection:m,withDefaultListColumns:p}=r,t=i({code:e().trim().optional(),description:e().trim().optional()}),o=s.merge(t).extend({predictors:m.default([])}),u=t.merge(p),g=c(o),h=a(o);export{g as initialValues,o as predictorGroupFormSchema,u as predictorGroupListSchema,h as validate};
+//# sourceMappingURL=predictorGroupSchema-CHLdI003.js.map

@@ -1,0 +1,2 @@
+import{j as e}from"./main-BOFp_3qv.js";import{b0 as i}from"./App-Dxzslblv.js";import{S as o}from"./StandardFormField-D9lL5nOO.js";import{C as m}from"./CodeField-ClJJiOxG.js";import{N as t}from"./NameField-L0PYWpIm.js";import{S as a}from"./ShortNameField-CA4M99Rb.js";const j=({section:s})=>{const r=i({section:s});return e.jsxs(e.Fragment,{children:[e.jsx(o,{children:e.jsx(t,{schemaSection:r})}),e.jsx(o,{children:e.jsx(a,{schemaSection:r})}),e.jsx(o,{children:e.jsx(m,{schemaSection:r})})]})};export{j as D};
+//# sourceMappingURL=DefaultIdentifibleFields-CoOneANM.js.map

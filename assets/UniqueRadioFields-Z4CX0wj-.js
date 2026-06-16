@@ -1,0 +1,2 @@
+import{j as n,i as s}from"./main-BOFp_3qv.js";import{H as r}from"./App-Dxzslblv.js";import{R as t}from"./radio-Dnf6VT8-.js";function d(){const o="orgunitScope",{input:e}=r(o,{validateFields:[]}),a=i=>{e.onChange(i),e.onBlur()};return n.jsxs("div",{children:[n.jsx(t,{checked:e.value===!1,value:"false",label:s.t("Across entire system"),onChange:()=>a(!1)}),n.jsx(t,{checked:e.value===!0,value:"true",label:s.t("Per organisation unit"),onChange:()=>a(!0)})]})}export{d as UniqueRadioFields};
+//# sourceMappingURL=UniqueRadioFields-Z4CX0wj-.js.map
