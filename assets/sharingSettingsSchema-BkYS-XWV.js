@@ -1,2 +1,0 @@
-import{y as a,aN as e,A as o,I as p}from"./App-WWboPb5P.js";import"./main-BNSb-dZl.js";const t=a({owner:o().optional(),external:p().optional(),public:o().optional(),userGroups:e(a({id:o(),access:o(),displayName:o().optional()})).optional(),users:e(a({id:o(),access:o(),displayName:o().optional()})).optional()});export{t as sharingSettingsSchema};
-//# sourceMappingURL=sharingSettingsSchema-BkYS-XWV.js.map
