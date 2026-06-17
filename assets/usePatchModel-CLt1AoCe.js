@@ -1,0 +1,2 @@
+import{u as c,r as o}from"./main-CgIxyqt1.js";import{p}from"./apiErrors-BEVCMNw3.js";const u=(t,a)=>({resource:a,id:t,type:"json-patch",data:({operations:r})=>r}),y=(t,a)=>{const r=c(),[e]=o.useState(()=>u(t,a));return o.useCallback(async n=>{try{return{data:await r.mutate(e,{variables:{operations:n}})}}catch(s){return{error:p(s)}}},[r,e])};export{y as u};
+//# sourceMappingURL=usePatchModel-CLt1AoCe.js.map
