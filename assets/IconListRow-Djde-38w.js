@@ -1,2 +1,0 @@
-import{R as p,j as s,v as R}from"./main-B5kCseWd.js";import{D as j,bk as r,bl as o}from"./App-CDKXM90e.js";const b=p.memo(function({active:e,selectedColumns:c,modelData:t,onClick:a,renderActions:x,renderColumnValue:n}){return s.jsxs(j,{className:R(o.listRow,{[o.active]:e}),dataTest:"section-list-row",children:[s.jsx(r,{width:"48px"}),c.map(i=>s.jsx(r,{onClick:()=>a==null?void 0:a(t),children:n(i,t)},i.path)),s.jsx(r,{children:x(t)})]})});export{b as IconListRow};
-//# sourceMappingURL=IconListRow-Djde-38w.js.map
