@@ -1,2 +1,0 @@
-import{j as t}from"./main-PIIS_8qD.js";import{T as i}from"./TranslatedFieldsNoticeBox-8Dl6Jn5z.js";import{c as r}from"./SectionForm.module-CiflWl4h.js";const m=({children:s,hidden:o})=>t.jsxs("div",{className:r.sections,id:"sections",hidden:o,children:[t.jsx(i,{}),s]}),d=({children:s,name:o,hidden:e})=>t.jsx("section",{id:o,hidden:e,children:s});export{m as S,d as a};
-//# sourceMappingURL=SectionedFormSections-DsKu-OJi.js.map

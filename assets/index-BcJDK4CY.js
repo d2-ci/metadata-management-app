@@ -1,2 +1,0 @@
-import{OrgUnitLevelField as f}from"./OrgUnitLevelField-DG18CjK1.js";import{CategoryOptionGroupSetField as n}from"./CategoryOptionGroupSetField-BteJWF2W.js";import"./main-PIIS_8qD.js";import"./App-BbljbWXr.js";import"./ModelSingleSelectField-B5F3jKRw.js";import"./ModelSingleSelectRefreshableField-BmlF7uR7.js";import"./Sync16-DPwSN84g.js";import"./Add16-CStfVNnV.js";import"./useRefreshSingleSelect-DnnMgiZw.js";export{n as CategoryOptionGroupSetField,f as OrgUnitLevelField};
-//# sourceMappingURL=index-BcJDK4CY.js.map
