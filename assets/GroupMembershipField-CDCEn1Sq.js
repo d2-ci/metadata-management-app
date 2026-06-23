@@ -1,0 +1,2 @@
+import{j as t,i as e}from"./main-BS2mAwlX.js";import"./App-BJHULpZQ.js";import{M as i}from"./ModelTransferField-D3ERa-3-.js";function d({resource:r}){return t.jsx(i,{dataTest:`formfields-${r}`,name:r,query:{resource:r,params:{fields:["id","displayName"]}},leftHeader:e.t("Available groups"),rightHeader:e.t("Selected groups"),filterPlaceholder:e.t("Filter available groups"),filterPlaceholderPicked:e.t("Filter selected groups")})}export{d as G};
+//# sourceMappingURL=GroupMembershipField-CDCEn1Sq.js.map
