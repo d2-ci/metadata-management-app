@@ -1,0 +1,2 @@
+import{K as a,aq as o,z as e,B as r,au as n}from"./App-CkdeSz9N.js";import"./main-D8MvuZ-3.js";import{g as s}from"./getDefaults-DPnt-yL3.js";const{identifiable:i}=a,t=n(["LISTING","SEQUENTIAL","MATRIX"]),c=i.extend({description:r().optional(),renderType:e({MOBILE:e({type:t.default("LISTING")}),DESKTOP:e({type:t.default("LISTING")})}),sortOrder:o.number().int().default(0)}),S=s(c);export{S as initialStageSectionValues,c as stageSectionFormSchema};
+//# sourceMappingURL=stageSectionFormSchema-BliqC6In.js.map
