@@ -1,0 +1,2 @@
+import{j as e}from"./main-BRYcboPb.js";import{aY as i}from"./App-g1opKW4z.js";import{S as o}from"./StandardFormField-BdKziJjr.js";import{C as m}from"./CodeField-3p-GLOws.js";import{N as a}from"./NameField-DvQGyD11.js";import{S as t}from"./ShortNameField-JEvnHiTx.js";const j=({section:s})=>{const r=i({section:s});return e.jsxs(e.Fragment,{children:[e.jsx(o,{children:e.jsx(a,{schemaSection:r})}),e.jsx(o,{children:e.jsx(t,{schemaSection:r})}),e.jsx(o,{children:e.jsx(m,{schemaSection:r})})]})};export{j as D};
+//# sourceMappingURL=DefaultIdentifibleFields-Co3BoATa.js.map
