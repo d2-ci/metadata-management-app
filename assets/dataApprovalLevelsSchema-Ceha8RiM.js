@@ -1,2 +1,0 @@
-import{K as i,z as e,am as a,B as t}from"./App-B0WbY7N8.js";import"./main-tVP1O4W-.js";import{c as m}from"./validate-SUL-cg_8.js";import{g as l}from"./getDefaults-CoCH_eia.js";const{identifiable:s,withDefaultListColumns:n}=i,o=e({name:t().trim(),orgUnitLevel:a().optional(),categoryOptionGroupSet:e({id:t()}).optional()}),r=s.merge(o).extend({orgUnitLevel:a()}),g=o.merge(n),L=l(r),f=m(r);export{r as dataApprovalLevelFormSchema,g as dataApprovalLevelListSchema,L as initialValues,f as validate};
-//# sourceMappingURL=dataApprovalLevelsSchema-Ceha8RiM.js.map
