@@ -1,0 +1,183 @@
+[
+  {
+    "locale": "ar",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ar_IQ",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ckb",
+    "shortcuts": {}
+  },
+  {
+    "locale": "cs",
+    "shortcuts": {}
+  },
+  {
+    "locale": "da",
+    "shortcuts": {}
+  },
+  {
+    "locale": "en",
+    "shortcuts": {
+      "Maintenance": "Maintenance",
+      "Categories": "Categories",
+      "Category options": "Category options",
+      "Category combinations": "Category combinations",
+      "Category option combinations": "Category option combinations",
+      "Category option groups": "Category option groups",
+      "Category option group sets": "Category option group sets",
+      "Data elements": "Data elements",
+      "Data element groups": "Data element groups",
+      "Data element group sets": "Data element group sets",
+      "Data sets": "Data sets",
+      "Data set notifications": "Data set notifications",
+      "Indicators": "Indicators",
+      "Indicator types": "Indicator types",
+      "Indicator groups": "Indicator groups",
+      "Indicator group sets": "Indicator group sets",
+      "Program indicators": "Program indicators",
+      "Program indicator groups": "Program indicator groups",
+      "Organisation units": "Organisation units",
+      "Organisation unit groups": "Organisation unit groups",
+      "Organisation unit group sets": "Organisation unit group sets",
+      "Organisation unit levels": "Organisation unit levels",
+      "Programs": "Programs",
+      "Tracked entity attributes": "Tracked entity attributes",
+      "Relationship types": "Relationship types",
+      "Tracked entity types": "Tracked entity types",
+      "Program rules": "Program rules",
+      "Program rule variables": "Program rule variables",
+      "Validation rules": "Validation rules",
+      "Validation rule groups": "Validation rule groups",
+      "Validation notifications": "Validation notifications",
+      "Constants": "Constants",
+      "Attributes": "Attributes",
+      "Option sets": "Option sets",
+      "Option groups": "Option groups",
+      "Option group sets": "Option group sets",
+      "Legends": "Legends",
+      "Predictors": "Predictors",
+      "Predictor groups": "Predictor groups",
+      "External map layers": "External map layers",
+      "Data approval levels": "Data approval levels",
+      "Data approval workflows": "Data approval workflows",
+      "Locales": "Locales",
+      "SQL views": "SQL views",
+      "Icons": "Icons",
+      "Analytics table hooks": "Analytics table hooks"
+    },
+    "title": "Metadata Management",
+    "description": ""
+  },
+  {
+    "locale": "es",
+    "shortcuts": {}
+  },
+  {
+    "locale": "es_419",
+    "shortcuts": {}
+  },
+  {
+    "locale": "fr",
+    "shortcuts": {}
+  },
+  {
+    "locale": "hi_IN",
+    "shortcuts": {}
+  },
+  {
+    "locale": "id",
+    "shortcuts": {}
+  },
+  {
+    "locale": "km",
+    "shortcuts": {}
+  },
+  {
+    "locale": "lo",
+    "shortcuts": {}
+  },
+  {
+    "locale": "my",
+    "shortcuts": {}
+  },
+  {
+    "locale": "nb",
+    "shortcuts": {}
+  },
+  {
+    "locale": "nl",
+    "shortcuts": {}
+  },
+  {
+    "locale": "prs",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ps",
+    "shortcuts": {}
+  },
+  {
+    "locale": "pt",
+    "shortcuts": {}
+  },
+  {
+    "locale": "pt_BR",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ro",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ru",
+    "shortcuts": {}
+  },
+  {
+    "locale": "si",
+    "shortcuts": {}
+  },
+  {
+    "locale": "sv",
+    "shortcuts": {}
+  },
+  {
+    "locale": "tet",
+    "shortcuts": {}
+  },
+  {
+    "locale": "tg",
+    "shortcuts": {}
+  },
+  {
+    "locale": "uk",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ur",
+    "shortcuts": {}
+  },
+  {
+    "locale": "uz_UZ_Cyrl",
+    "shortcuts": {}
+  },
+  {
+    "locale": "uz_UZ_Latn",
+    "shortcuts": {}
+  },
+  {
+    "locale": "vi",
+    "shortcuts": {}
+  },
+  {
+    "locale": "zh",
+    "shortcuts": {}
+  },
+  {
+    "locale": "zh_CN",
+    "shortcuts": {}
+  }
+]
