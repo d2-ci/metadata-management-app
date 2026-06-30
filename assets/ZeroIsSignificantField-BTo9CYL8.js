@@ -1,0 +1,2 @@
+import{j as i,i as e}from"./main-0MDL4htw.js";import{Z as t}from"./App-BDfdBXRz.js";import{C as o}from"./CheckboxFieldFF-RzIZvYIB.js";import"./checkbox-field-DqrCOf9k.js";import"./createToggleChangeHandler-DXbZSfNQ.js";function f(){return i.jsx(t,{component:o,dataTest:"formfields-zeroIsSignificant",name:"zeroIsSignificant",label:e.t("Store zero data values"),type:"checkbox",validateFields:[]})}export{f as ZeroIsSignificantField};
+//# sourceMappingURL=ZeroIsSignificantField-BTo9CYL8.js.map
