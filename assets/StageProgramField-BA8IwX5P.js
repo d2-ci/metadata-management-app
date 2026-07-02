@@ -1,0 +1,2 @@
+import{j as a,i as r}from"./main-H_iSF9_p.js";import{a as i}from"./ModelSingleSelectField-CdKfBiPg.js";import"./App-D925nux2.js";const s={resource:"programs",params:{fields:["id","displayName"],order:"displayName:asc"}},m=()=>a.jsx(i,{name:"program",label:r.t("Program"),required:!0,query:s,validate:e=>e!=null&&e.id?void 0:r.t("A program is required"),dataTest:"formfields-stage-program"});export{m as StageProgramField};
+//# sourceMappingURL=StageProgramField-BA8IwX5P.js.map
