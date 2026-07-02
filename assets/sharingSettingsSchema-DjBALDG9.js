@@ -1,0 +1,2 @@
+import{z as a,aJ as e,B as o,J as p}from"./App-VFl1p1cp.js";import"./main-G-v3mf8k.js";const t=a({owner:o().optional(),external:p().optional(),public:o().optional(),userGroups:e(a({id:o(),access:o(),displayName:o().optional()})).optional(),users:e(a({id:o(),access:o(),displayName:o().optional()})).optional()});export{t as sharingSettingsSchema};
+//# sourceMappingURL=sharingSettingsSchema-DjBALDG9.js.map
