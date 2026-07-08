@@ -1,0 +1,2 @@
+import{j as i,i as e}from"./main-D-HCSnN2.js";import"./App-CleSaqm_.js";import{M as a}from"./ModelTransferField-TbbdIbP3.js";function o({resource:r,hideAddNew:t}){return i.jsx(a,{dataTest:`formfields-${r}`,name:r,query:{resource:r,params:{fields:["id","displayName"]}},leftHeader:e.t("Available groups"),rightHeader:e.t("Selected groups"),filterPlaceholder:e.t("Filter available groups"),filterPlaceholderPicked:e.t("Filter selected groups"),hideAddNew:t})}export{o as G};
+//# sourceMappingURL=GroupMembershipField-CuB8UNzE.js.map
