@@ -1,0 +1,2 @@
+import{j as a,i as r}from"./main-D309YyKj.js";import{a as i}from"./ModelSingleSelectField-CgY90WAU.js";import"./App-oGc_Sf2Q.js";const s={resource:"programs",params:{fields:["id","displayName"],order:"displayName:asc"}},m=()=>a.jsx(i,{name:"program",label:r.t("Program"),required:!0,query:s,validate:e=>e!=null&&e.id?void 0:r.t("A program is required"),dataTest:"formfields-stage-program"});export{m as StageProgramField};
+//# sourceMappingURL=StageProgramField-CdbDHiJG.js.map

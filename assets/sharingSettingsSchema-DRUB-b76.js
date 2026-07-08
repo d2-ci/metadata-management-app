@@ -1,0 +1,2 @@
+import{z as a,aJ as e,B as o,J as p}from"./App-oGc_Sf2Q.js";import"./main-D309YyKj.js";const t=a({owner:o().optional(),external:p().optional(),public:o().optional(),userGroups:e(a({id:o(),access:o(),displayName:o().optional()})).optional(),users:e(a({id:o(),access:o(),displayName:o().optional()})).optional()});export{t as sharingSettingsSchema};
+//# sourceMappingURL=sharingSettingsSchema-DRUB-b76.js.map
