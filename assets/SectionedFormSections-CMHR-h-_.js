@@ -1,2 +1,0 @@
-import{j as t}from"./main-CARR_sK7.js";import{T as i}from"./TranslatedFieldsNoticeBox-BWnB966h.js";import{c as r}from"./SectionForm.module-ChDuPype.js";const m=({children:s,hidden:o})=>t.jsxs("div",{className:r.sections,id:"sections",hidden:o,children:[t.jsx(i,{}),s]}),d=({children:s,name:o,hidden:e})=>t.jsx("section",{id:o,hidden:e,children:s});export{m as S,d as a};
-//# sourceMappingURL=SectionedFormSections-CMHR-h-_.js.map
