@@ -1,0 +1,2 @@
+import{z as a,aN as e,B as o,J as p}from"./App-C5nqBtzy.js";import"./main-Ccex-EMJ.js";const t=a({owner:o().optional(),external:p().optional(),public:o().optional(),userGroups:e(a({id:o(),access:o(),displayName:o().optional()})).optional(),users:e(a({id:o(),access:o(),displayName:o().optional()})).optional()});export{t as sharingSettingsSchema};
+//# sourceMappingURL=sharingSettingsSchema-ClweyeDM.js.map
