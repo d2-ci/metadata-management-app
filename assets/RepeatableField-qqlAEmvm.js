@@ -1,0 +1,2 @@
+import{j as e,i as t}from"./main-CiirsVeq.js";import{Z as o}from"./App-BCL31LWJ.js";import{C as i}from"./CheckboxFieldFF-5Xuhz2fN.js";import"./checkbox-field-Cuq3P-fX.js";import"./createToggleChangeHandler-DXbZSfNQ.js";function s(){return e.jsx(o,{name:"repeatable",type:"checkbox",component:i,label:t.t("Allow multiple events in this stage"),dataTest:"formfields-repeatable"})}export{s as RepeatableField};
+//# sourceMappingURL=RepeatableField-qqlAEmvm.js.map
