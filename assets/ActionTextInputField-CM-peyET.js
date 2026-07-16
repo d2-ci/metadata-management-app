@@ -1,0 +1,2 @@
+import{j as i,B as e}from"./main-D3eyMWne.js";import{Z as p}from"./App-DOK2qlCS.js";import{I as s}from"./InputFieldFF-ta-n-edx.js";function l({name:t,label:r,required:o}){return i.jsx(p,{name:t,children:({input:n,meta:x})=>i.jsx(e,{width:"400px",minWidth:"100px",children:i.jsx(s,{input:n,meta:x,label:r,required:o})})})}export{l as ActionTextInputField};
+//# sourceMappingURL=ActionTextInputField-CM-peyET.js.map
