@@ -1,2 +1,0 @@
-import{j as i,i as m}from"./main-C-3eNa81.js";import{a as s}from"./ModelSingleSelectField-5wxNVCc_.js";import"./App-DrGy_8eR.js";function n({programId:r,label:a=m.t("Program stage"),required:e}){const o={resource:"programStages",params:{fields:["id","displayName"],filter:`program.id:eq:${r}`,paging:!1}};return i.jsx(s,{label:a,query:o,clearable:!e,format:t=>t??void 0,name:"programStage",required:e})}export{n as ProgramStageSelectField};
-//# sourceMappingURL=ProgramStageSelectField-C93irPVO.js.map

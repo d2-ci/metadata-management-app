@@ -1,0 +1,2 @@
+import{j as i,i as t}from"./main-ChW5pwSj.js";import{Z as a}from"./App-D1lSePN7.js";import{u as o}from"./useCheckMaxLengthFromSchema-BB4qxWQr.js";import{I as r}from"./InputFieldFF-BLxEFXWJ.js";function d(){const e=o("dataElement","url");return i.jsx(a,{component:r,dataTest:"formfields-url",inputWidth:"400px",name:"url",label:t.t("URL"),helpText:t.t("Shown with description when collecting data."),validateFields:[],validate:e})}export{d as UrlField};
+//# sourceMappingURL=UrlField-BOV10iMw.js.map
