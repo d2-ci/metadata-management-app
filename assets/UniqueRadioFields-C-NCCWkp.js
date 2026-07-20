@@ -1,0 +1,2 @@
+import{j as n,i as s}from"./main-CsRzpt2m.js";import{I as r}from"./App-xI6r1s01.js";import{R as t}from"./radio-C0M-i2_w.js";function d(){const o="orgunitScope",{input:e}=r(o,{validateFields:[]}),a=i=>{e.onChange(i),e.onBlur()};return n.jsxs("div",{children:[n.jsx(t,{checked:e.value===!1,value:"false",label:s.t("Across entire system"),onChange:()=>a(!1)}),n.jsx(t,{checked:e.value===!0,value:"true",label:s.t("Per organisation unit"),onChange:()=>a(!0)})]})}export{d as UniqueRadioFields};
+//# sourceMappingURL=UniqueRadioFields-C-NCCWkp.js.map
