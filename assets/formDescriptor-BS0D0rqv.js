@@ -1,0 +1,2 @@
+import{i as e}from"./main-CG5KOO7q.js";const a={name:"OptionSet",label:e.t("Option Set"),sections:[{name:"basicInfo",label:e.t("Basic information"),fields:[{name:"name",label:e.t("Name")},{name:"code",label:e.t("Code")},{name:"description",label:e.t("Description")},{name:"valueType",label:e.t("Value type")}]},{name:"options",label:e.t("Options"),fields:[{name:"options",label:e.t("Options")}]}]};export{a as OptionSetFormDescriptor};
+//# sourceMappingURL=formDescriptor-BS0D0rqv.js.map

@@ -1,0 +1,2 @@
+import{j as m,N as l}from"./main-CG5KOO7q.js";const x=(e,n)=>{const s=e??[],a=n??[];if(!s.length&&!a.length)return!1;const o=new Set(a.map(t=>t.dataElement.id)),i=new Set(s.map(t=>t.dataElement.id)),c=s.some(t=>!o.has(t.dataElement.id)),d=a.some(t=>!i.has(t.dataElement.id));return c||d},r="_unsavedNoticeBox_8ksg4_1",h={unsavedNoticeBox:r},N=({message:e})=>m.jsx(l,{className:h.unsavedNoticeBox,children:e});export{N as U,x as h};
+//# sourceMappingURL=UnsavedDataElementsNotice-BVulNNIB.js.map
