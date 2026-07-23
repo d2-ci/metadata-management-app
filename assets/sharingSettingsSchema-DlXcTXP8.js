@@ -1,2 +1,0 @@
-import{z as a,aJ as e,B as o,J as p}from"./App-Cabsm5-9.js";import"./main-MLzh4ZmU.js";const t=a({owner:o().optional(),external:p().optional(),public:o().optional(),userGroups:e(a({id:o(),access:o(),displayName:o().optional()})).optional(),users:e(a({id:o(),access:o(),displayName:o().optional()})).optional()});export{t as sharingSettingsSchema};
-//# sourceMappingURL=sharingSettingsSchema-DlXcTXP8.js.map
