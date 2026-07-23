@@ -1,0 +1,2 @@
+import{i}from"./main-D4-nhbmw.js";import{optionGroupFields as t}from"./optionGroup-BhRGmM0y.js";import"./App-kMipeL4T.js";import"./StandardFormField-B8lqLxLl.js";import"./LocationField-gG4-w8un.js";import"./DataElementWithOptionSetField-DIyZZ1ip.js";import"./useClearFormFields-ooba15vM.js";import"./TrackedEntityAttributeWithOptionSetField-BXh4uqKh.js";import"./OptionGroupField-thwjpUhl.js";import"./ModelSingleSelectField-CbRPN85o.js";const x=o=>t(o,i.t("Option group to hide"));export{x as hideOptionGroup};
+//# sourceMappingURL=hideOptionGroup-B_Oe4o2E.js.map

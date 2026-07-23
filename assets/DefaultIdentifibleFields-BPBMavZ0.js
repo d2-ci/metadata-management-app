@@ -1,0 +1,2 @@
+import{j as e}from"./main-D4-nhbmw.js";import{aZ as i}from"./App-kMipeL4T.js";import{S as o}from"./StandardFormField-B8lqLxLl.js";import{C as m}from"./CodeField-DJEG6zVw.js";import{N as a}from"./NameField-bpbzxvpu.js";import{S as t}from"./ShortNameField-B2VRNKd6.js";const j=({section:s})=>{const r=i({section:s});return e.jsxs(e.Fragment,{children:[e.jsx(o,{children:e.jsx(a,{schemaSection:r})}),e.jsx(o,{children:e.jsx(t,{schemaSection:r})}),e.jsx(o,{children:e.jsx(m,{schemaSection:r})})]})};export{j as D};
+//# sourceMappingURL=DefaultIdentifibleFields-BPBMavZ0.js.map

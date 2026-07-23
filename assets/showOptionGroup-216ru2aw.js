@@ -1,0 +1,2 @@
+import{i as t}from"./main-D4-nhbmw.js";import{optionGroupFields as p}from"./optionGroup-BhRGmM0y.js";import"./App-kMipeL4T.js";import"./StandardFormField-B8lqLxLl.js";import"./LocationField-gG4-w8un.js";import"./DataElementWithOptionSetField-DIyZZ1ip.js";import"./useClearFormFields-ooba15vM.js";import"./TrackedEntityAttributeWithOptionSetField-BXh4uqKh.js";import"./OptionGroupField-thwjpUhl.js";import"./ModelSingleSelectField-CbRPN85o.js";const x=o=>p(o,t.t("Option group to show"));export{x as showOptionGroup};
+//# sourceMappingURL=showOptionGroup-216ru2aw.js.map

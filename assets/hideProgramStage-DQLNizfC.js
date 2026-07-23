@@ -1,0 +1,2 @@
+import{j as r,i as e}from"./main-D4-nhbmw.js";import"./App-kMipeL4T.js";import{S as o}from"./StandardFormField-B8lqLxLl.js";import{ProgramStageSelectField as i}from"./ProgramStageSelectField-BFlLhx4v.js";import"./LocationField-gG4-w8un.js";import"./ModelSingleSelectField-CbRPN85o.js";function g(t){return r.jsx(o,{children:r.jsx(i,{programId:t,label:e.t("Program stage"),required:!0})})}export{g as hideProgramStage};
+//# sourceMappingURL=hideProgramStage-DQLNizfC.js.map
