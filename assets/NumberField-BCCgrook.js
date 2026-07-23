@@ -1,0 +1,2 @@
+import{j as a}from"./main-MD_MLFnP.js";import{I as f}from"./App-D9XF_-VU.js";import{I as d}from"./InputFieldFF-CT02KYbr.js";const c=({fieldName:o,label:s,helpText:i,required:r=!1,defaultValue:m=0})=>{const p=r?m:void 0,{input:n,meta:e}=f(o,{parse:t=>t===void 0||t===""?p:Number.parseFloat(t),type:"number",format:t=>t==null?void 0:t.toString()});return a.jsx(d,{input:n,meta:e,inputWidth:"250px",label:s,helpText:i,required:r,dataTest:`formfields-${o}`})};export{c as NumberField};
+//# sourceMappingURL=NumberField-BCCgrook.js.map
