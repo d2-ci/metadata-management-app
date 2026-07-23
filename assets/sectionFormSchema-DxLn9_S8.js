@@ -1,2 +1,0 @@
-import{K as o,z as e,B as i,au as n}from"./App-kMipeL4T.js";import"./main-D4-nhbmw.js";import{g as r}from"./getDefaults-BrSCDuAg.js";const{identifiable:a,referenceCollection:s}=o,t=n(["LISTING","SEQUENTIAL","MATRIX"]),c=a.extend({description:i().optional(),renderType:e({MOBILE:e({type:t.default("LISTING")}),DESKTOP:e({type:t.default("LISTING")})}),trackedEntityAttributes:s}),T=r(c);export{T as initialSectionValues,c as sectionFormSchema};
-//# sourceMappingURL=sectionFormSchema-DxLn9_S8.js.map

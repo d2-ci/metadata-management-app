@@ -1,2 +1,0 @@
-import{j as r}from"./main-D4-nhbmw.js";import"./App-kMipeL4T.js";import{S as e}from"./StandardFormField-B8lqLxLl.js";import"./LocationField-gG4-w8un.js";import{NotificationTemplateField as o}from"./NotificationTemplateField-spGbbFaK.js";import"./ModelSingleSelectField-CbRPN85o.js";function f(i,t){return r.jsx(e,{children:r.jsx(o,{programId:i,required:!0,disabled:t})})}export{f as sendMessage};
-//# sourceMappingURL=sendMessage-DhPksLbZ.js.map
