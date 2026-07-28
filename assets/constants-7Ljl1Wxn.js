@@ -1,0 +1,2 @@
+import{i as a}from"./main-CIgWXb3U.js";import{f as l}from"./App-BNIfxrM5.js";const o=[{value:"",label:a.t("<No value>")},{value:"NONE",label:a.t("None")},{value:"POINT",label:a.t("Point")},{value:"POLYGON",label:a.t("Polygon")}],N=[{value:"ON_COMPLETE",label:l("ON_COMPLETE")},{value:"ON_UPDATE_AND_INSERT",label:l("ON_UPDATE_AND_INSERT")}];export{o as featureTypeOptions,N as validationStrategyOptions};
+//# sourceMappingURL=constants-7Ljl1Wxn.js.map
