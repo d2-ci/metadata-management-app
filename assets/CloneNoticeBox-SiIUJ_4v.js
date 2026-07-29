@@ -1,2 +1,0 @@
-import{j as i,N as n,i as o}from"./main-1IJksSyQ.js";import{y as s}from"./App-C4eiO-CO.js";const a="_noticeBox_1ilga_1",c={noticeBox:a};function m({section:t}){const{initialValues:e}=s({subscription:{initialValues:!0}});return i.jsx(n,{title:o.t("Cloning {{- clonedModelName}}",{clonedModelName:e==null?void 0:e.displayName}),className:c.noticeBox,children:o.t("All values from the original {{-sectionName}} are included. Values that must be unique need to be updated.",{sectionName:t.title})})}export{m as C};
-//# sourceMappingURL=CloneNoticeBox-SiIUJ_4v.js.map
