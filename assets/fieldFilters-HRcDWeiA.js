@@ -1,2 +1,0 @@
-import"./App-D85E-3YR.js";import"./main-D5X_4R3D.js";import{D as e,A as a}from"./fieldFilters-C66fUV1C.js";const o=[...e,...a,"name","code","description","programRuleVariableSourceType","valueType","program[id,displayName]","programStage[id,displayName]","dataElement[id,displayName]","trackedEntityAttribute[id,displayName]","useCodeForOptionSet"];export{o as fieldFilters};
-//# sourceMappingURL=fieldFilters-HRcDWeiA.js.map
