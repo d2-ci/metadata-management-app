@@ -1,2 +1,0 @@
-import{u as c,r as o}from"./main-BSFs3ll2.js";import{p}from"./apiErrors-BY3ekz5M.js";const u=(t,a)=>({resource:a,id:t,type:"json-patch",data:({operations:r})=>r}),y=(t,a)=>{const r=c(),[e]=o.useState(()=>u(t,a));return o.useCallback(async n=>{try{return{data:await r.mutate(e,{variables:{operations:n}})}}catch(s){return{error:p(s)}}},[r,e])};export{y as u};
-//# sourceMappingURL=usePatchModel-Blc9Ydjs.js.map
