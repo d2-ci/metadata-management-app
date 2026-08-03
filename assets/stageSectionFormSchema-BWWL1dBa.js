@@ -1,2 +1,0 @@
-import{K as a,aq as o,z as e,B as r,au as n}from"./App-DnaU674l.js";import"./main-Z-QESQch.js";import{g as s}from"./getDefaults-BiWpyPRB.js";const{identifiable:i}=a,t=n(["LISTING","SEQUENTIAL","MATRIX"]),c=i.extend({description:r().optional(),renderType:e({MOBILE:e({type:t.default("LISTING")}),DESKTOP:e({type:t.default("LISTING")})}),sortOrder:o.number().int().default(0)}),S=s(c);export{S as initialStageSectionValues,c as stageSectionFormSchema};
-//# sourceMappingURL=stageSectionFormSchema-BWWL1dBa.js.map
