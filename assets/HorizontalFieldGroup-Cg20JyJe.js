@@ -1,0 +1,2 @@
+import{j as t,h as l}from"./main-Cj1b9zwL.js";import{F as s}from"./field-set-Bc9u3QaV.js";const r="_horizontalField_z0bbk_1",d={horizontalField:r},c=({className:a,children:i,...e})=>{var o;return t.jsx(s,{className:a,dataTest:(o=s.defaultProps)==null?void 0:o.dataTest,children:t.jsx(l,{...e,className:d.horizontalField,children:i})})};export{c as H};
+//# sourceMappingURL=HorizontalFieldGroup-Cg20JyJe.js.map
