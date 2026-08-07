@@ -1,0 +1,2 @@
+import{j as i,N as n,i as o}from"./main-81Gp833V.js";import{y as s}from"./App-DFCmB-0e.js";const a="_noticeBox_1ilga_1",c={noticeBox:a};function m({section:t}){const{initialValues:e}=s({subscription:{initialValues:!0}});return i.jsx(n,{title:o.t("Cloning {{- clonedModelName}}",{clonedModelName:e==null?void 0:e.displayName}),className:c.noticeBox,children:o.t("All values from the original {{-sectionName}} are included. Values that must be unique need to be updated.",{sectionName:t.title})})}export{m as C};
+//# sourceMappingURL=CloneNoticeBox-ByR8NciA.js.map
