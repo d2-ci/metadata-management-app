@@ -1,0 +1,2 @@
+import{z as a,aL as e,B as o,J as p}from"./App-BO2-c86y.js";import"./main-DglbQviS.js";const t=a({owner:o().optional(),external:p().optional(),public:o().optional(),userGroups:e(a({id:o(),access:o(),displayName:o().optional()})).optional(),users:e(a({id:o(),access:o(),displayName:o().optional()})).optional()});export{t as sharingSettingsSchema};
+//# sourceMappingURL=sharingSettingsSchema-CMUASk-q.js.map
