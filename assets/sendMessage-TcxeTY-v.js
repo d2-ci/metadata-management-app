@@ -1,0 +1,2 @@
+import{j as r}from"./main-C11YTU91.js";import"./App-Datr3KgA.js";import{S as e}from"./StandardFormField-nIWreg2S.js";import"./LocationField-Ben6cdTb.js";import{NotificationTemplateField as o}from"./NotificationTemplateField-AAC0jFkB.js";import"./ModelSingleSelectField-3jVstABP.js";function f(i,t){return r.jsx(e,{children:r.jsx(o,{programId:i,required:!0,disabled:t})})}export{f as sendMessage};
+//# sourceMappingURL=sendMessage-TcxeTY-v.js.map
