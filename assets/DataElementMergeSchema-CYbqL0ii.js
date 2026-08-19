@@ -1,2 +1,0 @@
-import{i as m}from"./main-BPjr5Md_.js";import{au as s,z as o,A as i,B as a}from"./App-C1672md9.js";import{c}from"./validate-ByC5b9c0.js";import{m as n}from"./mergeSchemaBase-B85QrlE9.js";const r=o({id:a(),displayName:a(),name:a()}),p=n.extend({sources:i(r).min(1,m.t("At least one source is required")).default([]),target:r,dataMergeStrategy:s(["LAST_UPDATED","DISCARD"]).default("LAST_UPDATED")}).transform(e=>({...e,sources:e.sources.map(t=>t.id),target:e.target.id})),f=c(p);export{p as mergeFormSchema,f as validate};
-//# sourceMappingURL=DataElementMergeSchema-CYbqL0ii.js.map

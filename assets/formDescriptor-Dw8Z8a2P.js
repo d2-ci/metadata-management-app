@@ -1,2 +1,0 @@
-import{i as e}from"./main-BPjr5Md_.js";const a={name:"OptionSet",label:e.t("Option Set"),sections:[{name:"basicInfo",label:e.t("Basic information"),fields:[{name:"name",label:e.t("Name")},{name:"code",label:e.t("Code")},{name:"description",label:e.t("Description")},{name:"valueType",label:e.t("Value type")}]},{name:"options",label:e.t("Options"),fields:[{name:"options",label:e.t("Options")}]}]};export{a as OptionSetFormDescriptor};
-//# sourceMappingURL=formDescriptor-Dw8Z8a2P.js.map
