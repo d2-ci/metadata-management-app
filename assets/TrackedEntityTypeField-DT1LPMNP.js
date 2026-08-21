@@ -1,0 +1,2 @@
+import{j as e,i as t}from"./main-r-8fOOL4.js";import{a as r}from"./ModelSingleSelectField-l5WhCMx7.js";import"./App-ChUKty-d.js";function l(){return e.jsx("div",{style:{width:"400px"},children:e.jsx(r,{dataTest:"formfields-trackedEntityType",name:"trackedEntityType",label:t.t("Tracked entity"),query:{resource:"trackedEntityTypes",params:{fields:["id","displayName"],order:"displayName:iasc"}},clearable:!0,clearText:t.t("<No value>")})})}export{l as TrackedEntityTypeField};
+//# sourceMappingURL=TrackedEntityTypeField-DT1LPMNP.js.map
