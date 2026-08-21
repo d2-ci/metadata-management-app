@@ -1,2 +1,0 @@
-import{z as a,aL as e,B as o,J as p}from"./App-ChUKty-d.js";import"./main-r-8fOOL4.js";const t=a({owner:o().optional(),external:p().optional(),public:o().optional(),userGroups:e(a({id:o(),access:o(),displayName:o().optional()})).optional(),users:e(a({id:o(),access:o(),displayName:o().optional()})).optional()});export{t as sharingSettingsSchema};
-//# sourceMappingURL=sharingSettingsSchema-CDc_07HX.js.map
