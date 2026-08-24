@@ -1,0 +1,2 @@
+import{j as r}from"./main-BeG00TN0.js";import"./App-Dj-rYv13.js";import{S as e}from"./StandardFormField-BV8Cjl4P.js";import"./LocationField-DFDq4t0P.js";import{NotificationTemplateField as o}from"./NotificationTemplateField-yY6t0bVN.js";import"./ModelSingleSelectField-DhVaSyco.js";function f(i,t){return r.jsx(e,{children:r.jsx(o,{programId:i,required:!0,disabled:t})})}export{f as sendMessage};
+//# sourceMappingURL=sendMessage-Ct_LPvEP.js.map
