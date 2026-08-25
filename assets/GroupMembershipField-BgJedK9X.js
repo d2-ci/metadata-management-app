@@ -1,0 +1,2 @@
+import{j as t,i as e}from"./main-CvpjiBLk.js";import"./App-B2Jgi9TG.js";import{M as a}from"./ModelTransferField-B9B9Ew66.js";function o({resource:r}){return t.jsx(a,{dataTest:`formfields-${r}`,name:r,query:{resource:r,params:{fields:["id","displayName"]}},leftHeader:e.t("Available groups"),rightHeader:e.t("Selected groups"),filterPlaceholder:e.t("Filter available groups"),filterPlaceholderPicked:e.t("Filter selected groups"),leftFooter:t.jsx(t.Fragment,{})})}export{o as G};
+//# sourceMappingURL=GroupMembershipField-BgJedK9X.js.map
