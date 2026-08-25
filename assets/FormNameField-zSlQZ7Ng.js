@@ -1,2 +1,0 @@
-import{j as m,i as e}from"./main-UgEy_GF7.js";import{bc as t,a0 as o}from"./App-Bc8GDK9H.js";import{u as r}from"./useCheckMaxLengthFromSchema-BC568dQg.js";import{I as i}from"./InputFieldFF-B4oHMeJK.js";function f(){const a=r(t.dataElement,"formName");return m.jsx(o,{component:i,dataTest:"formfields-formName",inputWidth:"400px",name:"formName",label:e.t("Form name"),helpText:e.t("An alternative name used in data entry forms."),validateFields:[],validate:a})}export{f as FormNameField};
-//# sourceMappingURL=FormNameField-zSlQZ7Ng.js.map
