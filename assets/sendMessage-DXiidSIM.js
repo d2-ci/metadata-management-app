@@ -1,0 +1,2 @@
+import{j as r}from"./main-DjdKbCTB.js";import"./App-BoQoffp5.js";import{S as e}from"./StandardFormField-C3DECdK0.js";import"./LocationField-DZty3qRS.js";import{NotificationTemplateField as o}from"./NotificationTemplateField-B6kGvZPP.js";import"./ModelSingleSelectField-ByyDy40D.js";function f(i,t){return r.jsx(e,{children:r.jsx(o,{programId:i,required:!0,disabled:t})})}export{f as sendMessage};
+//# sourceMappingURL=sendMessage-DXiidSIM.js.map
