@@ -1,0 +1,2 @@
+import{i as e}from"./main-Bf9a-T2n.js";const a={name:"OptionSet",label:e.t("Option Set"),sections:[{name:"basicInfo",label:e.t("Basic information"),fields:[{name:"name",label:e.t("Name")},{name:"code",label:e.t("Code")},{name:"description",label:e.t("Description")},{name:"valueType",label:e.t("Value type")}]},{name:"options",label:e.t("Options"),fields:[{name:"options",label:e.t("Options")}]}]};export{a as OptionSetFormDescriptor};
+//# sourceMappingURL=formDescriptor-BvRuV6w6.js.map
