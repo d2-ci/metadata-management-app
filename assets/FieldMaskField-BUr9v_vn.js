@@ -1,0 +1,2 @@
+import{j as a,i as e}from"./main-BcmGy7MX.js";import{a0 as i}from"./App-WCMHiLUE.js";import{u as o}from"./useCheckMaxLengthFromSchema-BiBtErdR.js";import{I as n}from"./InputFieldFF-BCBoAE0j.js";function r(){const t=o("dataElement","fieldMask");return a.jsx(i,{component:n,inputWidth:"400px",dataTest:"formfields-fieldMask",name:"fieldMask",label:e.t("Field mask"),helpText:e.t("Use a pattern to limit what information can be entered. See documentation for details."),validateFields:[],validate:t})}export{r as FieldMaskField};
+//# sourceMappingURL=FieldMaskField-BUr9v_vn.js.map

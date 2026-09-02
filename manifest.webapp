@@ -16,7 +16,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Tue Aug 25 2026 09:47:54 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Wed Sep 02 2026 13:25:05 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
@@ -24,6 +24,10 @@
     {
       "name": "Maintenance",
       "url": "#/overview"
+    },
+    {
+      "name": "All metadata",
+      "url": "#/overview/all"
     },
     {
       "name": "Categories",
@@ -114,6 +118,10 @@
       "url": "#/programs"
     },
     {
+      "name": "Program stages",
+      "url": "#/programStages"
+    },
+    {
       "name": "Tracked entity attributes",
       "url": "#/trackedEntityAttributes"
     },
@@ -131,7 +139,11 @@
     },
     {
       "name": "Program rule variables",
-      "url": "#programRuleVariables"
+      "url": "#/programRuleVariables"
+    },
+    {
+      "name": "Program disaggregations",
+      "url": "#/programDisaggregations"
     },
     {
       "name": "Validation rules",
