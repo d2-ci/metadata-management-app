@@ -203,7 +203,7 @@
       "url": "#/analyticsTableHooks"
     }
   ],
-  "version": "0.176.3",
+  "version": "0.176.4",
   "description": "",
   "entryPoints": {
     "app": "index.html"
