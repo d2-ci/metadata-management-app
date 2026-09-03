@@ -1,0 +1,2 @@
+import{j as a}from"./main-CAMEe0L-.js";import{I as f}from"./App-uG42Lkxl.js";import{I as d}from"./InputFieldFF-C3I5-ley.js";const c=({fieldName:o,label:s,helpText:i,required:r=!1,defaultValue:m=0})=>{const p=r?m:void 0,{input:n,meta:e}=f(o,{parse:t=>t===void 0||t===""?p:Number.parseFloat(t),type:"number",format:t=>t==null?void 0:t.toString()});return a.jsx(d,{input:n,meta:e,inputWidth:"250px",label:s,helpText:i,required:r,dataTest:`formfields-${o}`})};export{c as NumberField};
+//# sourceMappingURL=NumberField-BKhESDvh.js.map

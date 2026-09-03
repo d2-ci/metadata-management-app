@@ -1,0 +1,2 @@
+import{z as a,aL as e,B as o,J as p}from"./App-uG42Lkxl.js";import"./main-CAMEe0L-.js";const t=a({owner:o().optional(),external:p().optional(),public:o().optional(),userGroups:e(a({id:o(),access:o(),displayName:o().optional()})).optional(),users:e(a({id:o(),access:o(),displayName:o().optional()})).optional()});export{t as sharingSettingsSchema};
+//# sourceMappingURL=sharingSettingsSchema-DXRMMs_Y.js.map
