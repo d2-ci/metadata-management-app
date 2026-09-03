@@ -1,0 +1,2 @@
+import{K as o,z as e,B as i,aw as n}from"./App-Dw3Q9NjV.js";import"./main-DYTroSUS.js";import{g as r}from"./getDefaults-C59HcvMM.js";const{identifiable:a,referenceCollection:s}=o,t=n(["LISTING","SEQUENTIAL","MATRIX"]),c=a.extend({description:i().optional(),renderType:e({MOBILE:e({type:t.default("LISTING")}),DESKTOP:e({type:t.default("LISTING")})}),trackedEntityAttributes:s}),T=r(c);export{T as initialSectionValues,c as sectionFormSchema};
+//# sourceMappingURL=sectionFormSchema-BtgOe3bR.js.map
