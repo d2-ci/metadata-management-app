@@ -1,0 +1,2 @@
+import{u as c,r as o}from"./main-Zu9E36IS.js";import{p}from"./apiErrors-mrARx2XE.js";const u=(t,a)=>({resource:a,id:t,type:"json-patch",data:({operations:r})=>r}),y=(t,a)=>{const r=c(),[e]=o.useState(()=>u(t,a));return o.useCallback(async n=>{try{return{data:await r.mutate(e,{variables:{operations:n}})}}catch(s){return{error:p(s)}}},[r,e])};export{y as u};
+//# sourceMappingURL=usePatchModel-pMpIucV5.js.map

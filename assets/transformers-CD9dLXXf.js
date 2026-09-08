@@ -1,0 +1,2 @@
+const r=["SENDMESSAGE","SCHEDULEMESSAGE"];function l(e,a){const{deleted:o,...i}=e;return{...i,programRule:{id:a}}}function c(e){var n;if(!e)return{};const a=e.notificationTemplates??[],o=((n=e.programStages)==null?void 0:n.flatMap(t=>t.notificationTemplates??[]))??[],i=[...a,...o];return Object.fromEntries(i.filter(t=>t.id&&t.displayName).map(t=>[t.id,t.displayName]))}export{r as ACTION_TYPES_WITH_TEMPLATES,c as buildTemplateNameById,l as toProgramRuleActionApiPayload};
+//# sourceMappingURL=transformers-CD9dLXXf.js.map
