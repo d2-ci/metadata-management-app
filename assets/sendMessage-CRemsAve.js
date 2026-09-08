@@ -1,0 +1,2 @@
+import{j as r}from"./main-19uDf2CR.js";import"./App-CDG1Bgcw.js";import{S as e}from"./StandardFormField-BA8iu0eE.js";import"./LocationField-CAajM2o0.js";import{NotificationTemplateField as o}from"./NotificationTemplateField-PyaXfJO0.js";import"./ModelSingleSelectField-Daq8DIB_.js";function f(i,t){return r.jsx(e,{children:r.jsx(o,{programId:i,required:!0,disabled:t})})}export{f as sendMessage};
+//# sourceMappingURL=sendMessage-CRemsAve.js.map
