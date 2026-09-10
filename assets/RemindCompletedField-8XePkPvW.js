@@ -1,0 +1,2 @@
+import{j as e,i as t}from"./main-BfozkRhJ.js";import{a0 as o}from"./App-CUAph6eM.js";import{C as m}from"./CheckboxFieldFF-I5mUT6Ft.js";import"./checkbox-field-2bFhy4vS.js";import"./createToggleChangeHandler-DXbZSfNQ.js";function d(){return e.jsx(o,{name:"remindCompleted",type:"checkbox",component:m,label:t.t("Ask user to complete enrollment after completion"),dataTest:"formfields-remindCompleted",validateFields:[]})}export{d as RemindCompletedField};
+//# sourceMappingURL=RemindCompletedField-8XePkPvW.js.map
