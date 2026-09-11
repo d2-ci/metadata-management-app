@@ -4,7 +4,7 @@
   "short_name": "metadata-management",
   "name": "Metadata Management",
   "description": "",
-  "version": "0.176.4",
+  "version": "0.177.0",
   "core_app": true,
   "launch_path": "index.html",
   "default_locale": "en",
@@ -16,7 +16,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Thu Sep 03 2026 11:49:34 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Fri Sep 11 2026 08:14:56 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
@@ -216,6 +216,10 @@
     {
       "name": "Analytics table hooks",
       "url": "#/analyticsTableHooks"
+    },
+    {
+      "name": "Resources",
+      "url": "#/resources"
     }
   ]
 }

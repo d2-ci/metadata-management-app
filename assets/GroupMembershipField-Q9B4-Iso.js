@@ -1,2 +1,0 @@
-import{j as t,i as e}from"./main-D9_66E3f.js";import"./App-ByxcmxkS.js";import{M as a}from"./ModelTransferField-CDoT9_xl.js";function o({resource:r}){return t.jsx(a,{dataTest:`formfields-${r}`,name:r,query:{resource:r,params:{fields:["id","displayName"]}},leftHeader:e.t("Available groups"),rightHeader:e.t("Selected groups"),filterPlaceholder:e.t("Filter available groups"),filterPlaceholderPicked:e.t("Filter selected groups"),leftFooter:t.jsx(t.Fragment,{})})}export{o as G};
-//# sourceMappingURL=GroupMembershipField-Q9B4-Iso.js.map
