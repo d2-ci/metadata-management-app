@@ -1,0 +1,2 @@
+import{z as o,K as t,J as a,B as e}from"./App-rvoyGKZS.js";import"./main-BIsK85ua.js";const{withDefaultListColumns:s,withAttributeValues:m}=t,r=o({fromToName:e(),toFromName:e().optional(),displayFromToName:e(),displayToFromName:e(),bidirectional:a().default(!1),referral:a().default(!1)}),p=r.merge(s).merge(m);export{p as relationshipTypeListSchema};
+//# sourceMappingURL=RelationshipTypeFormSchema-yW8MNt-2.js.map
