@@ -1,0 +1,2 @@
+import{K as i,z as e,ao as a,B as t}from"./App-BHls7-Ww.js";import"./main-DV1wEnWR.js";import{c as m}from"./validate-BRiq97zp.js";import{g as l}from"./getDefaults-Cu-tJH1q.js";const{identifiable:s,withDefaultListColumns:n}=i,o=e({name:t().trim(),orgUnitLevel:a().optional(),categoryOptionGroupSet:e({id:t()}).optional()}),r=s.merge(o).extend({orgUnitLevel:a()}),g=o.merge(n),L=l(r),f=m(r);export{r as dataApprovalLevelFormSchema,g as dataApprovalLevelListSchema,L as initialValues,f as validate};
+//# sourceMappingURL=dataApprovalLevelsSchema-BIn5vquC.js.map
