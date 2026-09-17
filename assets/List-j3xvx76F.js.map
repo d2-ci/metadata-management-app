@@ -1,0 +1,1 @@
+{"version":3,"file":"List-j3xvx76F.js","sources":["../../src/D2App/pages/trackedEntityTypes/List.tsx"],"sourcesContent":["import React from 'react'\nimport { DefaultSectionList } from '../DefaultSectionList'\n\nexport const Component = () => <DefaultSectionList />\n"],"names":["Component","jsx","DefaultSectionList"],"mappings":"8/CAGO,MAAMA,EAAYA,IAAMC,MAACC,EAAA,CAAA,CAAkB"}

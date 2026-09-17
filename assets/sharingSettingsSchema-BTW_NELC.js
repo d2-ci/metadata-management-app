@@ -1,2 +1,0 @@
-import{z as a,aL as e,B as o,J as p}from"./App-E5rZ5ios.js";import"./main-C_dOf_Bh.js";const t=a({owner:o().optional(),external:p().optional(),public:o().optional(),userGroups:e(a({id:o(),access:o(),displayName:o().optional()})).optional(),users:e(a({id:o(),access:o(),displayName:o().optional()})).optional()});export{t as sharingSettingsSchema};
-//# sourceMappingURL=sharingSettingsSchema-BTW_NELC.js.map
