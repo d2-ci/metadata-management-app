@@ -1,0 +1,2 @@
+import{j as r}from"./main-_Ob8jLiw.js";import"./App-CHkeTeyT.js";import{S as e}from"./StandardFormField-B7lnCzp-.js";import"./LocationField-DqO0xHV1.js";import{NotificationTemplateField as o}from"./NotificationTemplateField-C9UJdfoo.js";import"./ModelSingleSelectField-TxX94gk7.js";function f(i,t){return r.jsx(e,{children:r.jsx(o,{programId:i,required:!0,disabled:t})})}export{f as sendMessage};
+//# sourceMappingURL=sendMessage-ByoNE_DG.js.map
