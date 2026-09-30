@@ -1,2 +1,0 @@
-import{j as t}from"./main-gmWrxTU0.js";import{a0 as i}from"./App-hk9Xo7id.js";import{C as e}from"./CheckboxFieldFF-D6Mh22gT.js";import"./checkbox-field-CsWI8SPC.js";import"./createToggleChangeHandler-DXbZSfNQ.js";function p({label:o}){return t.jsx(i,{component:e,type:"checkbox",name:"allowAuditLog",dataTest:"formfields-allowAuditLog",label:o,validateFields:[]})}export{p as AllowAuditLogField};
-//# sourceMappingURL=AllowAuditLogField-BcunckAB.js.map
