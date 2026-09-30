@@ -1,0 +1,2 @@
+import{j as e,i}from"./main-gmWrxTU0.js";import{a0 as t}from"./App-hk9Xo7id.js";import{C as r}from"./CheckboxFieldFF-D6Mh22gT.js";import"./checkbox-field-CsWI8SPC.js";import"./createToggleChangeHandler-DXbZSfNQ.js";function l(){return e.jsx(t,{component:r,dataTest:"formfields-inherit",name:"inherit",label:i.t("Inherit values from tracked entities linked by a relationship"),type:"checkbox",validateFields:[]})}export{l as InheritField};
+//# sourceMappingURL=InheritField-DYIUGCEH.js.map
