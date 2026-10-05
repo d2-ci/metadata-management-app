@@ -1,0 +1,2 @@
+import{j as r}from"./main-CsB2Tlob.js";import"./App-zjb0mJu6.js";import{S as e}from"./StandardFormField-B-C4QdeM.js";import"./LocationField-BvAF1jsG.js";import{NotificationTemplateField as o}from"./NotificationTemplateField-iSDBgUAY.js";import"./ModelSingleSelectField-DqvZA7j2.js";function f(i,t){return r.jsx(e,{children:r.jsx(o,{programId:i,required:!0,disabled:t})})}export{f as sendMessage};
+//# sourceMappingURL=sendMessage-CLKBesk-.js.map
