@@ -1,2 +1,0 @@
-import{z as a,aL as e,B as o,J as p}from"./App-DbrZ3xk8.js";import"./main-bxc9ikNd.js";const t=a({owner:o().optional(),external:p().optional(),public:o().optional(),userGroups:e(a({id:o(),access:o(),displayName:o().optional()})).optional(),users:e(a({id:o(),access:o(),displayName:o().optional()})).optional()});export{t as sharingSettingsSchema};
-//# sourceMappingURL=sharingSettingsSchema-00ELXFaX.js.map
