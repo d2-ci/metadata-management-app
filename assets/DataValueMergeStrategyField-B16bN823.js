@@ -1,0 +1,2 @@
+import{j as e,i as s}from"./main-BlhF8TtI.js";import{a0 as a}from"./App-B5TlRvGu.js";import{F as l}from"./field-group-2wq9txTE.js";import{R as t}from"./RadioFieldFF-4Qq2rAWU.js";const u=({label:r,helpText:o,moveToTargetLabel:i})=>e.jsxs(l,{label:r,helpText:o,children:[e.jsx(a,{name:"dataMergeStrategy",component:t,label:i,value:"LAST_UPDATED",type:"radio"}),e.jsx(a,{name:"dataMergeStrategy",component:t,label:s.t("Delete the source data values"),value:"DISCARD",type:"radio"})]});export{u as D};
+//# sourceMappingURL=DataValueMergeStrategyField-B16bN823.js.map
