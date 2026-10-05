@@ -1,2 +1,0 @@
-import{R as p,j as s,v as R}from"./main-DAHVB8R6.js";import{D as j,br as r,bs as o}from"./App-DMsMjr_Z.js";const b=p.memo(function({active:e,selectedColumns:c,modelData:t,onClick:a,renderActions:x,renderColumnValue:n}){return s.jsxs(j,{className:R(o.listRow,{[o.active]:e}),dataTest:"section-list-row",children:[s.jsx(r,{width:"48px"}),c.map(i=>s.jsx(r,{onClick:()=>a==null?void 0:a(t),children:n(i,t)},i.path)),s.jsx(r,{children:x(t)})]})});export{b as IconListRow};
-//# sourceMappingURL=IconListRow-JVnaj0qq.js.map
