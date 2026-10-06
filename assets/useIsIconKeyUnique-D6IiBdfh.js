@@ -1,0 +1,2 @@
+import{u as s,r as i,i as o}from"./main-BPI6Rb41.js";import{bp as a,bq as c}from"./App-C7WjL2gX.js";function d(){const t=s(),r=i.useMemo(()=>a(async e=>{if(e)try{return await t.query({result:{resource:"icons",id:e}}),o.t("An icon with this key already exists")}catch{return}}),[t]),n=i.useCallback(e=>r(e),[r]);return c(n,300,{leading:!0})}export{d as useIsIconKeyUnique};
+//# sourceMappingURL=useIsIconKeyUnique-D6IiBdfh.js.map
