@@ -4,7 +4,7 @@
   "short_name": "metadata-management",
   "name": "Metadata Management",
   "description": "",
-  "version": "0.176.3",
+  "version": "0.180.2",
   "core_app": true,
   "launch_path": "index.html",
   "default_locale": "en",
@@ -16,7 +16,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Tue Oct 06 2026 06:53:41 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Tue Oct 06 2026 08:53:14 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
@@ -24,6 +24,10 @@
     {
       "name": "Maintenance",
       "url": "#/overview"
+    },
+    {
+      "name": "All metadata",
+      "url": "#/overview/all"
     },
     {
       "name": "Categories",
@@ -114,6 +118,10 @@
       "url": "#/programs"
     },
     {
+      "name": "Program stages",
+      "url": "#/programStages"
+    },
+    {
       "name": "Tracked entity attributes",
       "url": "#/trackedEntityAttributes"
     },
@@ -131,7 +139,11 @@
     },
     {
       "name": "Program rule variables",
-      "url": "#programRuleVariables"
+      "url": "#/programRuleVariables"
+    },
+    {
+      "name": "Program disaggregations",
+      "url": "#/programDisaggregations"
     },
     {
       "name": "Validation rules",
@@ -204,6 +216,10 @@
     {
       "name": "Analytics table hooks",
       "url": "#/analyticsTableHooks"
+    },
+    {
+      "name": "Resources",
+      "url": "#/resources"
     }
   ]
 }
