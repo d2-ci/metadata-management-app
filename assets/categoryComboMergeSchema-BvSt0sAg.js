@@ -1,2 +1,0 @@
-import{i as a}from"./main-DsPyM3b2.js";import{z as m,A as s,B as r}from"./App-acQQNujn.js";import{c as i}from"./validate-CzQ-xUcb.js";import{m as c}from"./mergeSchemaBase-DbNMxlsJ.js";const o=m({id:r(),displayName:r(),name:r()}),n=c.extend({sources:s(o).min(1,a.t("At least one source is required")).default([]),target:o}).transform(e=>({...e,sources:e.sources.map(t=>t.id),target:e.target.id})),u=i(n);export{n as mergeFormSchema,u as validate};
-//# sourceMappingURL=categoryComboMergeSchema-BvSt0sAg.js.map
