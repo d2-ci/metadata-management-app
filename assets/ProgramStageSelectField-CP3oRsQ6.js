@@ -1,0 +1,2 @@
+import{j as i,i as m}from"./main-DI-HyP_J.js";import{a as s}from"./ModelSingleSelectField-OzLY0nOa.js";import"./App-Dn5lVWY7.js";function n({programId:r,label:a=m.t("Program stage"),required:e}){const o={resource:"programStages",params:{fields:["id","displayName"],filter:`program.id:eq:${r}`,paging:!1}};return i.jsx(s,{label:a,query:o,clearable:!e,format:t=>t??void 0,name:"programStage",required:e})}export{n as ProgramStageSelectField};
+//# sourceMappingURL=ProgramStageSelectField-CP3oRsQ6.js.map
