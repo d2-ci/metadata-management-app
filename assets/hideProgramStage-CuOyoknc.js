@@ -1,0 +1,2 @@
+import{j as r,i as e}from"./main-CrgTugg2.js";import"./App-BEFHPIrU.js";import{S as o}from"./StandardFormField-CXnlOG6R.js";import{ProgramStageSelectField as i}from"./ProgramStageSelectField-C_1SYlcn.js";import"./LocationField-B-a97xh6.js";import"./ModelSingleSelectField-wRM9gQkd.js";function g(t){return r.jsx(o,{children:r.jsx(i,{programId:t,label:e.t("Program stage"),required:!0})})}export{g as hideProgramStage};
+//# sourceMappingURL=hideProgramStage-CuOyoknc.js.map
