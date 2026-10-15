@@ -1,0 +1,2 @@
+import{R as w,j as s,v as R}from"./main-D2lTiOBl.js";import{D as j,bw as r,bx as o}from"./App-Du0_BkvX.js";const n=w.memo(function({active:i,selectedColumns:x,modelData:a,onClick:t,renderActions:c,renderColumnValue:p}){return s.jsxs(j,{className:R(o.listRow,{[o.active]:i}),dataTest:"section-list-row",children:[s.jsx(r,{width:"48px"}),x.map(e=>s.jsx(r,{onClick:()=>t==null?void 0:t(a),children:p(e,a)},e.path)),s.jsx(r,{children:c(a)})]})});export{n as LocaleListRow};
+//# sourceMappingURL=LocaleListRow-CCBD7GEl.js.map

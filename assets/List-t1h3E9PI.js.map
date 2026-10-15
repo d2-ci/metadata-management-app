@@ -1,0 +1,1 @@
+{"version":3,"file":"List-t1h3E9PI.js","sources":["../../src/D2App/pages/dataElementGroupSets/List.tsx"],"sourcesContent":["import { DefaultSectionList } from '../DefaultSectionList'\n\nexport const Component = DefaultSectionList\n"],"names":["Component","DefaultSectionList"],"mappings":"0gDAEO,MAAMA,EAAYC"}
