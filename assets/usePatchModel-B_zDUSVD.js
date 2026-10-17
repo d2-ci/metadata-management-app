@@ -1,0 +1,2 @@
+import{u as c,r as o}from"./main-BVQ3Rd8x.js";import{p}from"./apiErrors-B3BMMDdV.js";const u=(t,a)=>({resource:a,id:t,type:"json-patch",data:({operations:r})=>r}),y=(t,a)=>{const r=c(),[e]=o.useState(()=>u(t,a));return o.useCallback(async n=>{try{return{data:await r.mutate(e,{variables:{operations:n}})}}catch(s){return{error:p(s)}}},[r,e])};export{y as u};
+//# sourceMappingURL=usePatchModel-B_zDUSVD.js.map
