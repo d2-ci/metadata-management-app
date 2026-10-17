@@ -1,2 +1,0 @@
-import{z as o,B as e,J as r,aC as s,K as t}from"./App-D6WzMhq7.js";import"./main-Cf2wSrp1.js";const{identifiable:a,withDefaultListColumns:m}=t,n=o({code:e().or(s()),external:r(),url:e()}).merge(a).merge(m);export{n as resourceListSchema};
-//# sourceMappingURL=resourceSchema-pOk7vXF9.js.map
