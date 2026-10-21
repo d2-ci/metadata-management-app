@@ -1,0 +1,2 @@
+import{z as r,K as m,B as e,am as t,aK as a,aL as s}from"./App-Chqr1AtK.js";import"./main-kONUCuRs.js";import{c}from"./validate-DAHbPwTu.js";import{a as l}from"./getDefaults-Dt5VDKoW.js";const{identifiable:n,withAttributeValues:p,withDefaultListColumns:S}=m,i=r({type:t(s),cacheStrategy:t(a),sqlQuery:e(),description:e().trim().optional()}).merge(n),T=i.merge(S),o=i.merge(p),V=l(o,{type:s.VIEW,cacheStrategy:a.RESPECT_SYSTEM_SETTING}),f=c(o);export{V as initialValues,o as sqlViewFormSchema,T as sqlViewListSchema,f as validate};
+//# sourceMappingURL=sqlViewSchema-CfwxrCsY.js.map
