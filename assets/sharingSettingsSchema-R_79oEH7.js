@@ -1,0 +1,2 @@
+import{z as a,aP as e,B as o,J as p}from"./App-DVB-ILbx.js";import"./main-wtWIYhwP.js";const t=a({owner:o().optional(),external:p().optional(),public:o().optional(),userGroups:e(a({id:o(),access:o(),displayName:o().optional()})).optional(),users:e(a({id:o(),access:o(),displayName:o().optional()})).optional()});export{t as sharingSettingsSchema};
+//# sourceMappingURL=sharingSettingsSchema-R_79oEH7.js.map
