@@ -1,2 +1,0 @@
-import{z as a,aP as e,B as o,J as p}from"./App-8S3yOg-1.js";import"./main-Bj9-vfS8.js";const t=a({owner:o().optional(),external:p().optional(),public:o().optional(),userGroups:e(a({id:o(),access:o(),displayName:o().optional()})).optional(),users:e(a({id:o(),access:o(),displayName:o().optional()})).optional()});export{t as sharingSettingsSchema};
-//# sourceMappingURL=sharingSettingsSchema-y5fIjvtF.js.map
