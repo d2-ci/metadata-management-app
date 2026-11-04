@@ -207,7 +207,7 @@
       "url": "#/resources"
     }
   ],
-  "version": "0.184.2",
+  "version": "0.184.3",
   "description": "",
   "entryPoints": {
     "app": "index.html"
