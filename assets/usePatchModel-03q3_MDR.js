@@ -1,0 +1,2 @@
+import{u as c,r as o}from"./main-HyZV4hAu.js";import{p}from"./apiErrors-DK2-qEGB.js";const u=(t,a)=>({resource:a,id:t,type:"json-patch",data:({operations:r})=>r}),y=(t,a)=>{const r=c(),[e]=o.useState(()=>u(t,a));return o.useCallback(async n=>{try{return{data:await r.mutate(e,{variables:{operations:n}})}}catch(s){return{error:p(s)}}},[r,e])};export{y as u};
+//# sourceMappingURL=usePatchModel-03q3_MDR.js.map
