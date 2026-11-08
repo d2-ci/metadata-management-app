@@ -1,0 +1,2 @@
+const e={page:1,pageSize:20,total:1,pageCount:1},a=[{access:{manage:!0,externalize:!1,write:!0,read:!0,update:!0,delete:!0},id:"JuTpJ2Ywq5b",name:"FILTERED Age of LLINs",displayName:"FILTERED Age of LLINs",domainType:"TRACKER",valueType:"INTEGER_ZERO_OR_POSITIVE",lastUpdated:"2019-08-21T13:08:02.032",sharing:{owner:"xE7jOejl9FI",external:!1,users:{},userGroups:{},public:"r-------"}}],t={pager:e,dataElements:a};export{a as dataElements,t as default,e as pager};
+//# sourceMappingURL=filteredDataElementsMock-BPiSYqKQ.js.map
