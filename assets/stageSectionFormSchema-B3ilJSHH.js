@@ -1,2 +1,0 @@
-import{K as a,aq as o,z as e,B as r,ax as n}from"./App-CBPmALvC.js";import"./main-C9yfMBl5.js";import{g as s}from"./getDefaults-CUMR0jTj.js";const{identifiable:i}=a,t=n(["LISTING","SEQUENTIAL","MATRIX"]),c=i.extend({description:r().optional(),renderType:e({MOBILE:e({type:t.default("LISTING")}),DESKTOP:e({type:t.default("LISTING")})}),sortOrder:o.number().int().default(0)}),S=s(c);export{S as initialStageSectionValues,c as stageSectionFormSchema};
-//# sourceMappingURL=stageSectionFormSchema-B3ilJSHH.js.map
