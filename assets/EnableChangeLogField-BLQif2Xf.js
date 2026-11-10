@@ -1,2 +1,0 @@
-import{j as e,i as o}from"./main-tRRiMYtI.js";import{a0 as t}from"./App-MXX-U8_p.js";import{C as a}from"./CheckboxFieldFF-B6DAAh4Y.js";import"./checkbox-field-5EXRVEzP.js";import"./createToggleChangeHandler-DXbZSfNQ.js";function s(){return e.jsx(t,{component:a,type:"checkbox",name:"enableChangeLog",dataTest:"formfields-enableChangeLog",label:o.t("Record change history for attribute values"),validateFields:[]})}export{s as EnableChangeLogField};
-//# sourceMappingURL=EnableChangeLogField-BLQif2Xf.js.map
