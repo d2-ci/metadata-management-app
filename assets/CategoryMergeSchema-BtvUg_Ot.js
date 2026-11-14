@@ -1,0 +1,2 @@
+import{i as m}from"./main-BLIP_CED.js";import{ax as o,z as s,A as i,B as r}from"./App-CN81emw5.js";import{c}from"./validate-bpL_jwge.js";import{m as n}from"./mergeSchemaBase-DLfBZwDU.js";const a=s({id:r(),displayName:r(),name:r()}),p=n.extend({sources:i(a).min(1,m.t("At least one source is required")).default([]),target:a,dataMergeStrategy:o(["LAST_UPDATED","DISCARD"]).default("LAST_UPDATED")}).transform(e=>({...e,sources:e.sources.map(t=>t.id),target:e.target.id})),T=c(p);export{p as mergeFormSchema,T as validate};
+//# sourceMappingURL=CategoryMergeSchema-BtvUg_Ot.js.map

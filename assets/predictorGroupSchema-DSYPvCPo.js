@@ -1,0 +1,2 @@
+import{K as r,z as i,B as e}from"./App-CN81emw5.js";import"./main-BLIP_CED.js";import{c as a}from"./validate-bpL_jwge.js";import{g as c}from"./getDefaults-CVWW6c-n.js";const{identifiable:s,referenceCollection:m,withDefaultListColumns:p}=r,t=i({code:e().trim().optional(),description:e().trim().optional()}),o=s.merge(t).extend({predictors:m.default([])}),u=t.merge(p),g=c(o),h=a(o);export{g as initialValues,o as predictorGroupFormSchema,u as predictorGroupListSchema,h as validate};
+//# sourceMappingURL=predictorGroupSchema-DSYPvCPo.js.map
