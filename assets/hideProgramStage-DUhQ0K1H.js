@@ -1,2 +1,0 @@
-import{j as r,i as e}from"./main-BLIP_CED.js";import"./App-CN81emw5.js";import{S as o}from"./StandardFormField-98Oow5eW.js";import{ProgramStageSelectField as i}from"./ProgramStageSelectField-D0KpvoZK.js";import"./LocationField-DCXQTtWM.js";import"./ModelSingleSelectField-DL_ESqmm.js";function g(t){return r.jsx(o,{children:r.jsx(i,{programId:t,label:e.t("Program stage"),required:!0})})}export{g as hideProgramStage};
-//# sourceMappingURL=hideProgramStage-DUhQ0K1H.js.map

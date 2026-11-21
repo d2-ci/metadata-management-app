@@ -1,2 +1,0 @@
-import{j as i,i as t}from"./main-BLIP_CED.js";import{a0 as a}from"./App-CN81emw5.js";import{u as o}from"./useCheckMaxLengthFromSchema-C5gR6T5G.js";import{I as r}from"./InputFieldFF-DYxXCF5P.js";function d(){const e=o("dataElement","url");return i.jsx(a,{component:r,dataTest:"formfields-url",inputWidth:"400px",name:"url",label:t.t("URL"),helpText:t.t("Shown with description when collecting data."),validateFields:[],validate:e})}export{d as UrlField};
-//# sourceMappingURL=UrlField-CXzirHyc.js.map

@@ -1,2 +1,0 @@
-import{j as e,i as t}from"./main-BLIP_CED.js";import{a as r}from"./ModelSingleSelectField-DL_ESqmm.js";import"./App-CN81emw5.js";function l(){return e.jsx("div",{style:{width:"400px"},children:e.jsx(r,{dataTest:"formfields-trackedEntityType",name:"trackedEntityType",label:t.t("Tracked entity"),query:{resource:"trackedEntityTypes",params:{fields:["id","displayName"],order:"displayName:iasc"}},clearable:!0,clearText:t.t("<No value>")})})}export{l as TrackedEntityTypeField};
-//# sourceMappingURL=TrackedEntityTypeField-azpZK9hO.js.map

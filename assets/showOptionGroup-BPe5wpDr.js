@@ -1,2 +1,0 @@
-import{i as t}from"./main-BLIP_CED.js";import{optionGroupFields as p}from"./optionGroup-Bj1Fnfyr.js";import"./App-CN81emw5.js";import"./StandardFormField-98Oow5eW.js";import"./LocationField-DCXQTtWM.js";import"./DataElementWithOptionSetField-Cgimt6An.js";import"./useClearFormFields-CGlP4tGc.js";import"./TrackedEntityAttributeWithOptionSetField-BNYhFO6c.js";import"./OptionGroupField-BHKim-yO.js";import"./ModelSingleSelectField-DL_ESqmm.js";const x=o=>p(o,t.t("Option group to show"));export{x as showOptionGroup};
-//# sourceMappingURL=showOptionGroup-BPe5wpDr.js.map
