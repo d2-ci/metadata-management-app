@@ -1,0 +1,2 @@
+import{K as a,aq as o,z as e,B as r,ax as n}from"./App-B_wsoGd4.js";import"./main-BQFC5vNk.js";import{g as s}from"./getDefaults-B6QZl_4w.js";const{identifiable:i}=a,t=n(["LISTING","SEQUENTIAL","MATRIX"]),c=i.extend({description:r().optional(),renderType:e({MOBILE:e({type:t.default("LISTING")}),DESKTOP:e({type:t.default("LISTING")})}),sortOrder:o.number().int().default(0)}),S=s(c);export{S as initialStageSectionValues,c as stageSectionFormSchema};
+//# sourceMappingURL=stageSectionFormSchema-DvH6urby.js.map
