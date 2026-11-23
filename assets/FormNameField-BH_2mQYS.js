@@ -1,0 +1,2 @@
+import{j as a,i as e}from"./main-D6i91sYp.js";import{bg as m,a0 as r}from"./App-b9SHd1QZ.js";import{u as o}from"./useCheckMaxLengthFromSchema-BxvhPCA2.js";import{I as i}from"./InputFieldFF-CX1T93h2.js";function l(){const t=o(m.trackedEntityAttribute,"formName");return a.jsx(r,{component:i,dataTest:"formfields-formName",inputWidth:"400px",name:"formName",label:e.t("Form name"),helpText:e.t("An alternative name used in data entry forms."),validateFields:[],validate:t})}export{l as FormNameField};
+//# sourceMappingURL=FormNameField-BH_2mQYS.js.map
